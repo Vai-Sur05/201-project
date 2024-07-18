@@ -1,0 +1,655 @@
+,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type,match
+0,Florian Wirtz,de Germany,0.10,0.37,Goal,20,Right Foot,,Joshua Kimmich,Pass (Live),Toni Kroos,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+1,Jamal Musiala,de Germany,0.18,0.34,Goal,14,Right Foot,,Jamal Musiala,Take-On,Kai Havertz,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+2,Kai Havertz,de Germany,0.14,0.37,Saved,21,Left Foot,"Free kick, Deflected",Toni Kroos,Pass (Live),İlkay Gündoğan,Pass (Dead),Germany-Scotland-June-14-2024-European-Championship
+3,İlkay Gündoğan,de Germany,0.10,0.18,Saved,9,Head,,Joshua Kimmich,Pass (Live),İlkay Gündoğan,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+4,Kai Havertz (pen),de Germany,0.79,0.96,Goal,13,Left Foot,,İlkay Gündoğan,Fouled,İlkay Gündoğan,Shot,Germany-Scotland-June-14-2024-European-Championship
+5,,,,,,,,,,,,,Germany-Scotland-June-14-2024-European-Championship
+6,Antonio Rüdiger,de Germany,0.03,0.23,Saved,35,Right Foot,,Jonathan Tah,Pass (Live),Pascal Groß,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+7,Antonio Rüdiger,de Germany,0.02,,Blocked,14,Head,,Maximilian Mittelstädt,Pass (Live),İlkay Gündoğan,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+8,Pascal Groß,de Germany,0.03,,Blocked,24,Right Foot,,Toni Kroos,Pass (Dead),Florian Wirtz,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+9,Joshua Kimmich,de Germany,0.03,,Blocked,24,Right Foot,,Toni Kroos,Pass (Live),Jamal Musiala,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+10,Florian Wirtz,de Germany,0.10,,Off Target,9,Right Foot,Volley,Maximilian Mittelstädt,Pass (Live),Jamal Musiala,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+11,İlkay Gündoğan,de Germany,0.13,,Blocked,9,Left Foot,,Pascal Groß,Pass (Live),Jonathan Tah,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+12,Maximilian Mittelstädt,de Germany,0.03,,Blocked,20,Left Foot,,Pascal Groß,Pass (Live),Antonio Rüdiger,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+13,Florian Wirtz,de Germany,0.03,,Off Target,32,Right Foot,,Toni Kroos,Pass (Live),Pascal Groß,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+14,Leroy Sané,de Germany,0.13,0.15,Saved,14,Left Foot,,Joshua Kimmich,Pass (Live),,,Germany-Scotland-June-14-2024-European-Championship
+15,Maximilian Mittelstädt,de Germany,0.02,,Off Target,24,Left Foot,,Toni Kroos,Pass (Live),Jamal Musiala,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+16,Niclas Füllkrug,de Germany,0.19,0.39,Goal,17,Right Foot,,Jamal Musiala,Pass (Live),Maximilian Mittelstädt,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+17,Maximilian Mittelstädt,de Germany,0.03,,Off Target,19,Left Foot,Volley,Maximilian Mittelstädt,Pass (Live),Pascal Groß,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+18,Leroy Sané,de Germany,0.01,0.02,Saved,23,Left Foot,,Joshua Kimmich,Pass (Live),Leroy Sané,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+19,Leroy Sané,de Germany,0.04,,Off Target,29,Left Foot,,Niclas Füllkrug,Pass (Live),Emre Can,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+20,Scott McKenna,sct Scotland,0.02,,Off Target,12,Head,,Kenny McLean,Fouled,Angus Gunn,Pass (Dead),Germany-Scotland-June-14-2024-European-Championship
+21,Emre Can,de Germany,0.04,0.34,Goal,23,Right Foot,Deflected,Thomas Müller,Pass (Live),Leroy Sané,Pass (Live),Germany-Scotland-June-14-2024-European-Championship
+22,Attila Szalai,hu Hungary,0.09,,Off Target,13,Left Foot,,Willi Orban,Pass (Live),Dominik Szoboszlai,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+23,Roland Sallai,hu Hungary,0.05,,Off Target,24,Right Foot,,Attila Fiola,Pass (Live),Ádám Nagy,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+24,Kwadwo Duah,ch Switzerland,0.51,0.89,Goal,11,Right Foot,,Michel Aebischer,Pass (Live),Manuel Akanji,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+25,Ruben Vargas,ch Switzerland,0.54,0.45,Saved,14,Right Foot,,,,,,Hungary-Switzerland-June-15-2024-European-Championship
+26,Fabian Schär,ch Switzerland,0.01,,Blocked,27,Right Foot,,Granit Xhaka,Pass (Live),Manuel Akanji,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+27,Fabian Schär,ch Switzerland,0.03,,Blocked,18,Left Foot,,,,,,Hungary-Switzerland-June-15-2024-European-Championship
+28,Willi Orban,hu Hungary,0.21,0.23,Saved,9,Head,,Dominik Szoboszlai,Pass (Dead),Attila Szalai,Fouled,Hungary-Switzerland-June-15-2024-European-Championship
+29,Michel Aebischer,ch Switzerland,0.06,0.41,Goal,26,Right Foot,,Remo Freuler,Pass (Live),Ruben Vargas,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+30,,,,,,,,,,,,,Hungary-Switzerland-June-15-2024-European-Championship
+31,Kwadwo Duah,ch Switzerland,0.08,,Blocked,11,Right Foot,,Dan Ndoye,Pass (Live),Dan Ndoye,Take-On,Hungary-Switzerland-June-15-2024-European-Championship
+32,Kwadwo Duah,ch Switzerland,0.10,0.20,Saved,15,Left Foot,,Granit Xhaka,Pass (Live),Ricardo Rodríguez,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+33,Ruben Vargas,ch Switzerland,0.05,0.03,Saved,13,Left Foot,,Granit Xhaka,Pass (Live),Michel Aebischer,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+34,Dan Ndoye,ch Switzerland,0.02,,Off Target,25,Right Foot,,,,,,Hungary-Switzerland-June-15-2024-European-Championship
+35,Barnabás Varga,hu Hungary,0.20,,Off Target,9,Head,,Roland Sallai,Pass (Live),Dominik Szoboszlai,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+36,Barnabás Varga,hu Hungary,0.66,0.75,Goal,5,Head,,Dominik Szoboszlai,Pass (Live),Roland Sallai,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+37,Roland Sallai,hu Hungary,0.05,,Blocked,16,Right Foot,,Willi Orban,Pass (Live),Dominik Szoboszlai,Pass (Dead),Hungary-Switzerland-June-15-2024-European-Championship
+38,Dan Ndoye,ch Switzerland,0.04,,Blocked,16,Right Foot,,Granit Xhaka,Pass (Live),,,Hungary-Switzerland-June-15-2024-European-Championship
+39,Fabian Schär,ch Switzerland,0.14,,Off Target,8,Head,,Ruben Vargas,Pass (Dead),Dan Ndoye,Shot,Hungary-Switzerland-June-15-2024-European-Championship
+40,Dan Ndoye,ch Switzerland,0.05,,Off Target,14,Right Foot,,Ricardo Rodríguez,Pass (Live),Manuel Akanji,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+41,Vincent Sierro,ch Switzerland,0.01,,Blocked,31,Right Foot,,Michel Aebischer,Pass (Live),Ricardo Rodríguez,Pass (Live),Hungary-Switzerland-June-15-2024-European-Championship
+42,Granit Xhaka,ch Switzerland,0.06,0.03,Saved,5,Head,Deflected,Fabian Rieder,Pass (Dead),Vincent Sierro,Shot,Hungary-Switzerland-June-15-2024-European-Championship
+43,Breel Embolo,ch Switzerland,0.61,0.41,Goal,14,Right Foot,,,,,,Hungary-Switzerland-June-15-2024-European-Championship
+44,Álvaro Morata,es Spain,0.05,0.19,Saved,25,Left Foot,,Lamine Yamal,Pass (Live),Rodri,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+45,Lamine Yamal,es Spain,0.08,,Off Target,14,Left Foot,,Pedri,Pass (Live),Marc Cucurella,Interception,Spain-Croatia-June-15-2024-European-Championship
+46,Ante Budimir,hr Croatia,0.03,,Off Target,15,Head,,Josip Stanišić,Pass (Live),Marcelo Brozović,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+47,Álvaro Morata,es Spain,0.40,0.87,Goal,18,Left Foot,,Fabián Ruiz Peña,Pass (Live),Rodri,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+48,Mateo Kovačić,hr Croatia,0.13,0.16,Saved,17,Left Foot,,Lovro Majer,Pass (Live),Josip Stanišić,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+49,Fabián Ruiz Peña,es Spain,0.14,0.14,Goal,16,Left Foot,Deflected,Fabián Ruiz Peña,Take-On,Fabián Ruiz Peña,Take-On,Spain-Croatia-June-15-2024-European-Championship
+50,Marcelo Brozović,hr Croatia,0.10,0.16,Saved,21,Right Foot,,,,,,Spain-Croatia-June-15-2024-European-Championship
+51,Lovro Majer,hr Croatia,0.12,,Off Target,7,Right Foot,,Marcelo Brozović,Shot,,,Spain-Croatia-June-15-2024-European-Championship
+52,Robin Le Normand,es Spain,0.15,,Off Target,7,Head,,Nico Williams,Pass (Dead),,,Spain-Croatia-June-15-2024-European-Championship
+53,Joško Gvardiol,hr Croatia,0.06,,Off Target,9,Left Foot,Volley,Lovro Majer,Pass (Live),Andrej Kramarić,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+54,Andrej Kramarić,hr Croatia,0.01,,Off Target,35,Right Foot,,Mateo Kovačić,Pass (Live),Lovro Majer,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+55,Mateo Kovačić,hr Croatia,0.02,,Off Target,29,Right Foot,,Andrej Kramarić,Pass (Live),Luka Modrić,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+56,Dani Carvajal,es Spain,0.50,0.65,Goal,6,Right Foot,,Lamine Yamal,Pass (Live),Fabián Ruiz Peña,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+57,,,,,,,,,,,,,Spain-Croatia-June-15-2024-European-Championship
+58,Joško Gvardiol,hr Croatia,0.03,,Blocked,22,Left Foot,,Andrej Kramarić,Pass (Live),Andrej Kramarić,Take-On,Spain-Croatia-June-15-2024-European-Championship
+59,Lamine Yamal,es Spain,0.32,0.84,Saved,11,Left Foot,,Pedri,Pass (Live),Pedri,Take-On,Spain-Croatia-June-15-2024-European-Championship
+60,Álvaro Morata,es Spain,0.24,,Off Target,3,Right Foot,Volley,Lamine Yamal,Pass (Live),Lamine Yamal,Take-On,Spain-Croatia-June-15-2024-European-Championship
+61,Josip Stanišić,hr Croatia,0.19,,Blocked,9,Right Foot,,Mateo Kovačić,Pass (Live),Mateo Kovačić,Take-On,Spain-Croatia-June-15-2024-European-Championship
+62,Ante Budimir,hr Croatia,0.27,,Off Target,3,Head,,Josip Stanišić,Shot,,,Spain-Croatia-June-15-2024-European-Championship
+63,Mateo Kovačić,hr Croatia,0.20,,Off Target,5,Head,,Andrej Kramarić,Shot,,,Spain-Croatia-June-15-2024-European-Championship
+64,Andrej Kramarić,hr Croatia,0.45,0.90,Saved,3,Head,,Ante Budimir,Shot,,,Spain-Croatia-June-15-2024-European-Championship
+65,Lamine Yamal,es Spain,0.07,,Blocked,29,Left Foot,Free kick,Fabián Ruiz Peña,Fouled,Nico Williams,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+66,Dani Olmo,es Spain,0.02,,Blocked,30,Right Foot,,Nacho,Pass (Live),Rodri,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+67,Bruno Petković (pen),hr Croatia,0.79,0.99,Saved,13,Right Foot,,Bruno Petković,Fouled,Lovro Majer,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+68,Ivan Perišić,hr Croatia,0.05,,Blocked,21,Right Foot,,Bruno Petković,Pass (Live),Mario Pašalić,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+69,Ivan Perišić,hr Croatia,0.02,0.19,Saved,32,Left Foot,,Luka Sučić,Pass (Live),Ivan Perišić,Shot,Spain-Croatia-June-15-2024-European-Championship
+70,Ferrán Torres,es Spain,0.05,,Blocked,14,Right Foot,,Mikel Oyarzabal,Pass (Live),Fabián Ruiz Peña,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+71,Ivan Perišić,hr Croatia,0.01,,Off Target,13,Head,,Marcelo Brozović,Pass (Live),Luka Sučić,Pass (Live),Spain-Croatia-June-15-2024-European-Championship
+72,Nedim Bajrami,al Albania,0.07,0.59,Goal,12,Right Foot,Deflected,,,,,Italy-Albania-June-15-2024-European-Championship
+73,Lorenzo Pellegrini,it Italy,0.17,,Off Target,17,Right Foot,,Gianluca Scamacca,Pass (Live),Federico Chiesa,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+74,Federico Chiesa,it Italy,0.02,,Blocked,16,Left Foot,,Nicolò Barella,Pass (Live),Riccardo Calafiori,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+75,Jasir Asani,al Albania,0.02,,Blocked,17,Left Foot,,Armando Broja,Pass (Live),Ylber Ramadani,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+76,Berat Djimsiti,al Albania,0.08,,Off Target,17,Left Foot,Volley,Kristjan Asllani,Pass (Live),Kristjan Asllani,Take-On,Italy-Albania-June-15-2024-European-Championship
+77,Federico Dimarco,it Italy,0.02,,Blocked,19,Left Foot,,Jorginho,Pass (Live),Nicolò Barella,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+78,Alessandro Bastoni,it Italy,0.19,0.37,Goal,5,Head,,Lorenzo Pellegrini,Pass (Live),Federico Dimarco,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+79,Gianluca Scamacca,it Italy,0.03,,Blocked,17,Right Foot,,Giovanni Di Lorenzo,Pass (Live),Jorginho,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+80,Nicolò Barella,it Italy,0.09,0.34,Goal,22,Right Foot,,Gianluca Scamacca,Shot,,,Italy-Albania-June-15-2024-European-Championship
+81,Riccardo Calafiori,it Italy,0.19,,Blocked,5,Head,,Federico Dimarco,Pass (Dead),Federico Chiesa,Take-On,Italy-Albania-June-15-2024-European-Championship
+82,Federico Chiesa,it Italy,0.01,,Blocked,27,Right Foot,,Riccardo Calafiori,Shot,,,Italy-Albania-June-15-2024-European-Championship
+83,Lorenzo Pellegrini,it Italy,0.06,,Off Target,9,Right Foot,Volley,Federico Chiesa,Pass (Live),Federico Chiesa,Take-On,Italy-Albania-June-15-2024-European-Championship
+84,Davide Frattesi,it Italy,0.22,0.26,Saved,9,Right Foot,,Jorginho,Pass (Live),Jorginho,Interception,Italy-Albania-June-15-2024-European-Championship
+85,Gianluca Scamacca,it Italy,0.16,0.52,Saved,8,Right Foot,,Lorenzo Pellegrini,Pass (Live),Giovanni Di Lorenzo,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+86,Riccardo Calafiori,it Italy,0.06,,Blocked,10,Head,,Lorenzo Pellegrini,Pass (Dead),Gianluca Scamacca,Shot,Italy-Albania-June-15-2024-European-Championship
+87,Jasir Asani,al Albania,0.01,,Off Target,29,Left Foot,,Berat Djimsiti,Pass (Live),Kristjan Asllani,Pass (Dead),Italy-Albania-June-15-2024-European-Championship
+88,Lorenzo Pellegrini,it Italy,0.20,,Off Target,10,Other,,Federico Chiesa,Pass (Live),Davide Frattesi,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+89,,,,,,,,,,,,,Italy-Albania-June-15-2024-European-Championship
+90,Gianluca Scamacca,it Italy,0.03,,Off Target,25,Right Foot,,Riccardo Calafiori,Pass (Live),Davide Frattesi,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+91,Kristjan Asllani,al Albania,0.04,,Blocked,29,Right Foot,Free kick,Armando Broja,Fouled,Nedim Bajrami,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+92,Federico Chiesa,it Italy,0.03,,Off Target,20,Left Foot,,Gianluca Scamacca,Pass (Live),Gianluca Scamacca,Tackle,Italy-Albania-June-15-2024-European-Championship
+93,Giovanni Di Lorenzo,it Italy,0.05,,Blocked,6,Head,,Federico Dimarco,Pass (Live),Lorenzo Pellegrini,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+94,Kristjan Asllani,al Albania,0.03,,Off Target,23,Left Foot,Volley,Jasir Asani,Fouled,Armando Broja,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+95,Federico Dimarco,it Italy,0.02,0.10,Saved,27,Left Foot,,Riccardo Calafiori,Pass (Live),Alessandro Bastoni,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+96,Rey Manaj,al Albania,0.22,,Off Target,9,Right Foot,,Kristjan Asllani,Pass (Live),Arlind Ajeti,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+97,Mario Mitaj,al Albania,0.04,,Off Target,22,Left Foot,,Arbër Hoxha,Pass (Live),Qazim Laçi,Pass (Live),Italy-Albania-June-15-2024-European-Championship
+98,Cody Gakpo,nl Netherlands,0.02,0.23,Saved,15,Right Foot,Deflected,Joey Veerman,Pass (Live),Denzel Dumfries,Pass (Dead),Poland-Netherlands-June-16-2024-European-Championship
+99,Cody Gakpo,nl Netherlands,0.05,,Off Target,9,Head,,Denzel Dumfries,Pass (Live),Virgil van Dijk,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+100,Bartosz Salamon,pl Poland,0.01,,Off Target,63,Right Foot,,,,,,Poland-Netherlands-June-16-2024-European-Championship
+101,Tijjani Reijnders,nl Netherlands,0.08,,Off Target,16,Right Foot,,Jerdy Schouten,Pass (Live),Joey Veerman,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+102,Adam Buksa,pl Poland,0.02,,Blocked,15,Right Foot,,Przemysław Frankowski,Pass (Live),Sebastian Szymański,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+103,Xavi Simons,nl Netherlands,0.03,,Off Target,25,Right Foot,,Joey Veerman,Pass (Live),Memphis,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+104,Adam Buksa,pl Poland,0.12,0.04,Goal,6,Head,,Piotr Zieliński,Pass (Dead),Sebastian Szymański,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+105,Virgil van Dijk,nl Netherlands,0.04,0.05,Saved,16,Right Foot,Volley,Joey Veerman,Pass (Dead),Joey Veerman,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+106,Memphis,nl Netherlands,0.12,,Off Target,17,Right Foot,,Tijjani Reijnders,Pass (Live),Virgil van Dijk,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+107,Memphis,nl Netherlands,0.15,,Off Target,13,Right Foot,,Xavi Simons,Pass (Live),Denzel Dumfries,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+108,Denzel Dumfries,nl Netherlands,0.16,,Off Target,10,Head,,Cody Gakpo,Pass (Live),Memphis,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+109,Tijjani Reijnders,nl Netherlands,0.05,,Blocked,4,Head,,Denzel Dumfries,Shot,,,Poland-Netherlands-June-16-2024-European-Championship
+110,Cody Gakpo,nl Netherlands,0.02,,Off Target,23,Right Foot,,Xavi Simons,Pass (Live),Virgil van Dijk,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+111,Cody Gakpo,nl Netherlands,0.05,0.02,Goal,25,Right Foot,Deflected,Nathan Aké,Pass (Live),,,Poland-Netherlands-June-16-2024-European-Championship
+112,Jakub Kiwior,pl Poland,0.03,0.05,Saved,15,Left Foot,Volley,Piotr Zieliński,Pass (Live),Kacper Urbanski,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+113,Cody Gakpo,nl Netherlands,0.23,,Off Target,8,Right Foot,,Nathan Aké,Pass (Live),Xavi Simons,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+114,Tijjani Reijnders,nl Netherlands,0.02,,Off Target,28,Right Foot,,Nathan Aké,Pass (Live),Memphis,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+115,Memphis,nl Netherlands,0.07,,Off Target,14,Right Foot,,Nathan Aké,Pass (Live),Joey Veerman,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+116,,,,,,,,,,,,,Poland-Netherlands-June-16-2024-European-Championship
+117,Xavi Simons,nl Netherlands,0.03,,Blocked,26,Right Foot,,Xavi Simons,Pass (Live),Jerdy Schouten,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+118,Tijjani Reijnders,nl Netherlands,0.03,,Blocked,24,Right Foot,,Cody Gakpo,Pass (Live),Xavi Simons,Shot,Poland-Netherlands-June-16-2024-European-Championship
+119,Memphis,nl Netherlands,0.02,,Off Target,36,Right Foot,,Joey Veerman,Pass (Live),Memphis,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+120,Xavi Simons,nl Netherlands,0.08,,Off Target,14,Right Foot,,Cody Gakpo,Pass (Live),Tijjani Reijnders,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+121,Jakub Kiwior,pl Poland,0.12,0.28,Saved,13,Left Foot,Deflected,Nicola Zalewski,Pass (Live),Piotr Zieliński,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+122,Piotr Zieliński,pl Poland,0.03,0.03,Saved,27,Left Foot,,Jakub Kiwior,Pass (Live),Adam Buksa,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+123,Jakub Moder,pl Poland,0.13,,Off Target,11,Right Foot,,Karol Świderski,Pass (Live),Piotr Zieliński,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+124,Denzel Dumfries,nl Netherlands,0.02,,Off Target,14,Right Foot,,Donyell Malen,Pass (Live),Donyell Malen,Take-On,Poland-Netherlands-June-16-2024-European-Championship
+125,Stefan de Vrij,nl Netherlands,0.08,,Off Target,10,Head,,Memphis,Pass (Dead),Denzel Dumfries,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+126,Jakub Moder,pl Poland,0.47,,Off Target,5,Head,,Karol Świderski,Pass (Dead),,,Poland-Netherlands-June-16-2024-European-Championship
+127,Wout Weghorst,nl Netherlands,0.13,0.85,Goal,9,Left Foot,,Tijjani Reijnders,Pass (Live),Stefan de Vrij,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+128,Karol Świderski,pl Poland,0.23,0.66,Saved,8,Left Foot,,Jakub Piotrowski,Pass (Live),Jakub Piotrowski,Take-On,Poland-Netherlands-June-16-2024-European-Championship
+129,Jakub Piotrowski,pl Poland,0.14,,Off Target,3,Left Foot,,Karol Świderski,Shot,,,Poland-Netherlands-June-16-2024-European-Championship
+130,Jakub Moder,pl Poland,0.02,0.15,Saved,33,Left Foot,,Bartosz Slisz,Tackle,,,Poland-Netherlands-June-16-2024-European-Championship
+131,Nicola Zalewski,pl Poland,0.02,0.20,Saved,30,Right Foot,,Adam Buksa,Pass (Live),Wojciech Szczęsny,Pass (Live),Poland-Netherlands-June-16-2024-European-Championship
+132,Andreas Christensen,dk Denmark,0.02,,Off Target,15,Head,,Christian Eriksen,Pass (Dead),Jonas Wind,Fouled,Slovenia-Denmark-June-16-2024-European-Championship
+133,Victor Bernth Kristiansen,dk Denmark,0.03,,Blocked,20,Right Foot,Volley,Alexander Bah,Pass (Dead),,,Slovenia-Denmark-June-16-2024-European-Championship
+134,Benjamin Šeško,si Slovenia,0.03,,Off Target,29,Right Foot,,Timi Elšnik,Pass (Live),,,Slovenia-Denmark-June-16-2024-European-Championship
+135,Christian Eriksen,dk Denmark,0.51,0.83,Goal,10,Right Foot,,Jonas Wind,Pass (Live),Alexander Bah,Pass (Dead),Slovenia-Denmark-June-16-2024-European-Championship
+136,Erik Janža,si Slovenia,0.02,,Blocked,28,Left Foot,Volley,Adam Gnezda Čerin,Pass (Dead),Žan Karničnik,Pass (Live),Slovenia-Denmark-June-16-2024-European-Championship
+137,Erik Janža,si Slovenia,0.02,,Off Target,28,Left Foot,,Adam Gnezda Čerin,Pass (Dead),Erik Janža,Shot,Slovenia-Denmark-June-16-2024-European-Championship
+138,Jannik Vestergaard,dk Denmark,0.15,,Off Target,8,Head,,Christian Eriksen,Pass (Dead),,,Slovenia-Denmark-June-16-2024-European-Championship
+139,Joachim Andersen,dk Denmark,0.06,,Off Target,10,Head,,Christian Eriksen,Pass (Dead),,,Slovenia-Denmark-June-16-2024-European-Championship
+140,Christian Eriksen,dk Denmark,0.04,,Blocked,15,Left Foot,,Alexander Bah,Pass (Live),Alexander Bah,Pass (Live),Slovenia-Denmark-June-16-2024-European-Championship
+141,Christian Eriksen,dk Denmark,0.01,,Blocked,31,Right Foot,,Morten Hjulmand,Pass (Live),,,Slovenia-Denmark-June-16-2024-European-Championship
+142,Christian Eriksen,dk Denmark,0.20,,Off Target,13,Left Foot,,Jonas Wind,Pass (Live),,,Slovenia-Denmark-June-16-2024-European-Championship
+143,,,,,,,,,,,,,Slovenia-Denmark-June-16-2024-European-Championship
+144,Andreas Christensen,dk Denmark,0.01,,Blocked,17,Head,,Christian Eriksen,Pass (Dead),Pierre Højbjerg,Fouled,Slovenia-Denmark-June-16-2024-European-Championship
+145,Pierre Højbjerg,dk Denmark,0.07,,Blocked,9,Right Foot,Volley,Christian Eriksen,Pass (Dead),Alexander Bah,Fouled,Slovenia-Denmark-June-16-2024-European-Championship
+146,Rasmus Højlund,dk Denmark,0.27,0.94,Saved,5,Right Foot,,Victor Bernth Kristiansen,Pass (Live),Pierre Højbjerg,Pass (Live),Slovenia-Denmark-June-16-2024-European-Championship
+147,Alexander Bah,dk Denmark,0.08,,Blocked,21,Right Foot,,Pierre Højbjerg,Pass (Live),Rasmus Højlund,Shot,Slovenia-Denmark-June-16-2024-European-Championship
+148,Adam Gnezda Čerin,si Slovenia,0.17,,Off Target,9,Head,,Andraž Šporar,Pass (Live),Erik Janža,Pass (Live),Slovenia-Denmark-June-16-2024-European-Championship
+149,Christian Eriksen,dk Denmark,0.04,,Off Target,9,Left Foot,Volley,Jonas Wind,Pass (Live),Victor Bernth Kristiansen,Pass (Dead),Slovenia-Denmark-June-16-2024-European-Championship
+150,Jonas Wind,dk Denmark,0.16,,Off Target,5,Head,,Christian Eriksen,Pass (Dead),,,Slovenia-Denmark-June-16-2024-European-Championship
+151,Andraž Šporar,si Slovenia,0.43,,Off Target,5,Right Foot,Volley,Erik Janža,Pass (Dead),Benjamin Šeško,Fouled,Slovenia-Denmark-June-16-2024-European-Championship
+152,Benjamin Šeško,si Slovenia,0.03,,Woodwork,29,Right Foot,,Erik Janža,Pass (Live),Jaka Bijol,Pass (Live),Slovenia-Denmark-June-16-2024-European-Championship
+153,Erik Janža,si Slovenia,0.01,0.03,Goal,26,Left Foot,"Deflected, Volley",Benjamin Šeško,Shot,,,Slovenia-Denmark-June-16-2024-European-Championship
+154,Andraž Šporar,si Slovenia,0.11,,Blocked,9,Left Foot,Volley,Erik Janža,Pass (Live),Jon Gorenc Stanković,Pass (Live),Slovenia-Denmark-June-16-2024-European-Championship
+155,Andraž Šporar,si Slovenia,0.15,,Off Target,10,Left Foot,Volley,Andraž Šporar,Shot,,,Slovenia-Denmark-June-16-2024-European-Championship
+156,Jannik Vestergaard,dk Denmark,0.01,0.12,Saved,11,Head,,Christian Eriksen,Pass (Dead),,,Slovenia-Denmark-June-16-2024-European-Championship
+157,Andraž Šporar,si Slovenia,0.13,0.35,Saved,11,Right Foot,,Benjamin Verbič,Pass (Live),Benjamin Šeško,Pass (Live),Slovenia-Denmark-June-16-2024-European-Championship
+158,Morten Hjulmand,dk Denmark,0.04,0.09,Saved,27,Left Foot,,Yussuf Poulsen,Pass (Live),Christian Nørgaard,Pass (Live),Slovenia-Denmark-June-16-2024-European-Championship
+159,Žan Karničnik,si Slovenia,0.01,,Off Target,32,Right Foot,,Benjamin Šeško,Pass (Live),Benjamin Verbič,Pass (Live),Slovenia-Denmark-June-16-2024-European-Championship
+160,Jude Bellingham,eng England,0.24,0.93,Goal,6,Head,,Kyle Walker,Pass (Live),Jude Bellingham,Pass (Live),Serbia-England-June-16-2024-European-Championship
+161,Trent Alexander-Arnold,eng England,0.02,,Off Target,24,Right Foot,,Phil Foden,Pass (Live),Harry Kane,Pass (Live),Serbia-England-June-16-2024-European-Championship
+162,Aleksandar Mitrović,rs Serbia,0.05,,Off Target,17,Right Foot,,Andrija Živković,Pass (Live),,,Serbia-England-June-16-2024-European-Championship
+163,Dušan Vlahović,rs Serbia,0.04,,Blocked,23,Left Foot,,Sergej Milinković-Savić,Pass (Live),Sergej Milinković-Savić,Take-On,Serbia-England-June-16-2024-European-Championship
+164,Trent Alexander-Arnold,eng England,0.05,,Blocked,29,Right Foot,Free kick,Trent Alexander-Arnold,Fouled,Jude Bellingham,Pass (Live),Serbia-England-June-16-2024-European-Championship
+165,,,,,,,,,,,,,Serbia-England-June-16-2024-European-Championship
+166,Trent Alexander-Arnold,eng England,0.02,0.04,Saved,29,Right Foot,,Declan Rice,Pass (Live),Jude Bellingham,Pass (Live),Serbia-England-June-16-2024-European-Championship
+167,Harry Kane,eng England,0.20,0.49,Saved,6,Head,,Jarrod Bowen,Pass (Live),Kyle Walker,Pass (Dead),Serbia-England-June-16-2024-European-Championship
+168,Dušan Vlahović,rs Serbia,0.04,0.04,Saved,24,Left Foot,,Ivan Ilić,Pass (Live),Nikola Milenković,Pass (Live),Serbia-England-June-16-2024-European-Championship
+169,Veljko Birmančević,rs Serbia,0.02,,Blocked,25,Right Foot,Volley,Dušan Vlahović,Shot,,,Serbia-England-June-16-2024-European-Championship
+170,Sergej Milinković-Savić,rs Serbia,0.02,,Off Target,29,Right Foot,,Filip Mladenović,Pass (Live),Filip Mladenović,Take-On,Serbia-England-June-16-2024-European-Championship
+171,Ivan Ilić,rs Serbia,0.02,,Blocked,29,Left Foot,,Nikola Milenković,Pass (Live),Filip Mladenović,Pass (Dead),Serbia-England-June-16-2024-European-Championship
+172,Viktor Tsyhankov,ua Ukraine,0.07,,Blocked,24,Left Foot,,Artem Dovbyk,Pass (Live),Viktor Tsyhankov,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+173,Florinel Coman,ro Romania,0.03,0.01,Saved,30,Right Foot,,Răzvan Marin,Pass (Live),Denis Drăguș,Take-On,Romania-Ukraine-June-17-2024-European-Championship
+174,Heorhiy Sudakov,ua Ukraine,0.02,,Blocked,24,Right Foot,,Mykhailo Mudryk,Pass (Live),Heorhiy Sudakov,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+175,Artem Dovbyk,ua Ukraine,0.06,,Off Target,27,Left Foot,,Mykola Matviyenko,Pass (Live),Oleksandr Zinchenko,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+176,Nicolae Stanciu,ro Romania,0.05,0.40,Goal,25,Right Foot,,Dennis Man,Pass (Live),,,Romania-Ukraine-June-17-2024-European-Championship
+177,Viktor Tsyhankov,ua Ukraine,0.06,,Blocked,18,Left Foot,,Artem Dovbyk,Pass (Live),Mykola Shaparenko,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+178,Dennis Man,ro Romania,0.03,,Blocked,24,Left Foot,,Andrei Ratiu,Pass (Live),Răzvan Marin,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+179,,,,,,,,,,,,,Romania-Ukraine-June-17-2024-European-Championship
+180,Florinel Coman,ro Romania,0.04,,Off Target,18,Right Foot,,Denis Drăguș,Pass (Live),Răzvan Marin,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+181,Heorhiy Sudakov,ua Ukraine,0.02,,Off Target,27,Right Foot,,Mykhailo Mudryk,Pass (Live),Heorhiy Sudakov,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+182,Mykhailo Mudryk,ua Ukraine,0.02,,Blocked,13,Right Foot,,Mykhailo Mudryk,Take-On,Oleksandr Zinchenko,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+183,Răzvan Marin,ro Romania,0.02,0.13,Goal,27,Right Foot,,Andrei Ratiu,Pass (Live),Denis Drăguș,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+184,Nicolae Stanciu,ro Romania,0.09,,Blocked,22,Right Foot,,Nicolae Stanciu,Interception,,,Romania-Ukraine-June-17-2024-European-Championship
+185,Andrei Ratiu,ro Romania,0.05,0.21,Saved,14,Right Foot,,Dennis Man,Pass (Live),Nicolae Stanciu,Shot,Romania-Ukraine-June-17-2024-European-Championship
+186,Denis Drăguș,ro Romania,0.87,0.82,Goal,4,Left Foot,,Dennis Man,Pass (Live),Dennis Man,Take-On,Romania-Ukraine-June-17-2024-European-Championship
+187,Andriy Yarmolenko,ua Ukraine,0.07,,Off Target,17,Left Foot,,Heorhiy Sudakov,Fouled,Mykola Matviyenko,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+188,Nicolae Stanciu,ro Romania,0.02,,Off Target,30,Right Foot,Free kick,Valentin Mihaila,Fouled,Andrei Burcă,Pass (Dead),Romania-Ukraine-June-17-2024-European-Championship
+189,Heorhiy Sudakov,ua Ukraine,0.05,,Blocked,28,Right Foot,Free kick,Mykhailo Mudryk,Fouled,Volodymyr Brazhko,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+190,Heorhiy Sudakov,ua Ukraine,0.05,0.15,Saved,28,Right Foot,,Volodymyr Brazhko,Pass (Live),Andriy Yarmolenko,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+191,Roman Yaremchuk,ua Ukraine,0.05,,Blocked,25,Right Foot,,Heorhiy Sudakov,Pass (Live),Oleksandr Zinchenko,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+192,Mykhailo Mudryk,ua Ukraine,0.23,,Off Target,11,Left Foot,,Artem Dovbyk,Pass (Live),Ruslan Malinovskyi,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+193,Roman Yaremchuk,ua Ukraine,0.04,,Woodwork,13,Right Foot,Volley,Illia Zabarnyi,Pass (Live),Ruslan Malinovskyi,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+194,Mykhailo Mudryk,ua Ukraine,0.02,0.02,Saved,35,Right Foot,,Mykola Matviyenko,Pass (Live),Ruslan Malinovskyi,Pass (Live),Romania-Ukraine-June-17-2024-European-Championship
+195,Kevin De Bruyne,be Belgium,0.16,,Off Target,12,Left Foot,,Jeremy Doku,Pass (Live),Jeremy Doku,Take-On,Belgium-Slovakia-June-17-2024-European-Championship
+196,Romelu Lukaku,be Belgium,0.41,0.70,Saved,7,Right Foot,,Kevin De Bruyne,Shot,,,Belgium-Slovakia-June-17-2024-European-Championship
+197,Juraj Kucka,sk Slovakia,0.14,0.14,Saved,14,Right Foot,,Ivan Schranz,Pass (Live),,,Belgium-Slovakia-June-17-2024-European-Championship
+198,Ivan Schranz,sk Slovakia,0.04,0.64,Goal,9,Right Foot,Volley,Juraj Kucka,Shot,,,Belgium-Slovakia-June-17-2024-European-Championship
+199,Jeremy Doku,be Belgium,0.02,,Blocked,19,Left Foot,,Jeremy Doku,Take-On,Kevin De Bruyne,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+200,Leandro Trossard,be Belgium,0.04,,Off Target,30,Right Foot,,,,,,Belgium-Slovakia-June-17-2024-European-Championship
+201,Róbert Boženík,sk Slovakia,0.03,,Blocked,18,Right Foot,Deflected,Ivan Schranz,Pass (Live),Peter Pekarík,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+202,Róbert Boženík,sk Slovakia,0.07,0.04,Saved,22,Right Foot,,Lukáš Haraslín,Pass (Live),Ondrej Duda,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+203,Leandro Trossard,be Belgium,0.05,,Blocked,23,Right Foot,,Kevin De Bruyne,Pass (Live),Amadou Onana,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+204,Amadou Onana,be Belgium,0.07,0.02,Saved,11,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+205,Lukáš Haraslín,sk Slovakia,0.09,0.55,Saved,17,Right Foot,Volley,Juraj Kucka,Pass (Live),Ivan Schranz,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+206,Juraj Kucka,sk Slovakia,0.04,,Off Target,6,Head,,Lukáš Haraslín,Pass (Live),Ondrej Duda,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+207,,,,,,,,,,,,,Belgium-Slovakia-June-17-2024-European-Championship
+208,Lukáš Haraslín,sk Slovakia,0.03,,Off Target,23,Right Foot,,Dávid Hancko,Pass (Live),Ondrej Duda,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+209,Denis Vavro,sk Slovakia,0.02,,Off Target,37,Right Foot,,Milan Škriniar,Pass (Live),Dávid Hancko,Pass (Dead),Belgium-Slovakia-June-17-2024-European-Championship
+210,Romelu Lukaku,be Belgium,0.06,0.18,Saved,14,Right Foot,,Leandro Trossard,Pass (Live),Romelu Lukaku,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+211,Leandro Trossard,be Belgium,0.05,0.12,Saved,24,Right Foot,,Romelu Lukaku,Pass (Live),Kevin De Bruyne,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+212,Yannick Carrasco,be Belgium,0.05,,Blocked,11,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+213,Romelu Lukaku,be Belgium,0.13,,Off Target,7,Right Foot,Volley,Yannick Carrasco,Pass (Live),Timothy Castagne,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+214,Johan Bakayoko,be Belgium,0.44,,Blocked,10,Left Foot,,Jeremy Doku,Take-On,Yannick Carrasco,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+215,Kevin De Bruyne,be Belgium,0.04,,Blocked,22,Right Foot,,Johan Bakayoko,Pass (Live),Kevin De Bruyne,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+216,Dávid Strelec,sk Slovakia,0.08,,Blocked,9,Right Foot,,Ivan Schranz,Pass (Live),Peter Pekarík,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+217,Juraj Kucka,sk Slovakia,0.04,,Off Target,27,Left Foot,,Ivan Schranz,Pass (Live),Peter Pekarík,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+218,Yannick Carrasco,be Belgium,0.06,,Blocked,23,Right Foot,,Johan Bakayoko,Pass (Live),Romelu Lukaku,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+219,Amadou Onana,be Belgium,0.02,,Off Target,13,Head,,Kevin De Bruyne,Pass (Dead),Yannick Carrasco,Shot,Belgium-Slovakia-June-17-2024-European-Championship
+220,Johan Bakayoko,be Belgium,0.04,,Off Target,22,Left Foot,,,,,,Belgium-Slovakia-June-17-2024-European-Championship
+221,Kevin De Bruyne,be Belgium,0.05,,Off Target,12,Right Foot,,Loïs Openda,Pass (Live),Youri Tielemans,Pass (Live),Belgium-Slovakia-June-17-2024-European-Championship
+222,Kylian Mbappé,fr France,0.10,0.20,Saved,14,Right Foot,,Adrien Rabiot,Pass (Live),Theo Hernández,Pass (Live),Austria-France-June-17-2024-European-Championship
+223,Theo Hernández,fr France,0.07,,Off Target,9,Left Foot,,Marcus Thuram,Pass (Live),Theo Hernández,Pass (Live),Austria-France-June-17-2024-European-Championship
+224,Antoine Griezmann,fr France,0.04,,Blocked,17,Left Foot,,Adrien Rabiot,Pass (Live),Adrien Rabiot,Take-On,Austria-France-June-17-2024-European-Championship
+225,Marcus Thuram,fr France,0.05,,Off Target,6,Head,,Antoine Griezmann,Pass (Dead),Antoine Griezmann,Shot,Austria-France-June-17-2024-European-Championship
+226,Kylian Mbappé,fr France,0.02,,Blocked,18,Right Foot,,Kylian Mbappé,Pass (Live),Adrien Rabiot,Pass (Live),Austria-France-June-17-2024-European-Championship
+227,Christoph Baumgartner,at Austria,0.49,0.92,Saved,9,Right Foot,,Marcel Sabitzer,Pass (Live),Michael Gregoritsch,Pass (Live),Austria-France-June-17-2024-European-Championship
+228,Kevin Danso,at Austria,0.04,,Off Target,11,Head,,Marcel Sabitzer,Pass (Dead),Stefan Posch,Pass (Live),Austria-France-June-17-2024-European-Championship
+229,,,,,,,,,,,,,Austria-France-June-17-2024-European-Championship
+230,Stefan Posch,at Austria,0.02,,Off Target,26,Right Foot,,Christoph Baumgartner,Pass (Live),Maximilian Wöber,Pass (Live),Austria-France-June-17-2024-European-Championship
+231,Kylian Mbappé,fr France,0.62,,Off Target,17,Right Foot,,,,,,Austria-France-June-17-2024-European-Championship
+232,Marcel Sabitzer,at Austria,0.04,,Blocked,26,Right Foot,Free kick,Phillipp Mwene,Fouled,,,Austria-France-June-17-2024-European-Championship
+233,Ousmane Dembélé,fr France,0.02,,Off Target,24,Left Foot,,N'Golo Kanté,Pass (Live),,,Austria-France-June-17-2024-European-Championship
+234,Antoine Griezmann,fr France,0.80,,Off Target,5,Right Foot,,Theo Hernández,Pass (Live),Kylian Mbappé,Pass (Live),Austria-France-June-17-2024-European-Championship
+235,Jules Koundé,fr France,0.15,,Blocked,15,Right Foot,,Ousmane Dembélé,Pass (Live),Antoine Griezmann,Shot,Austria-France-June-17-2024-European-Championship
+236,Marcus Thuram,fr France,0.09,0.08,Saved,12,Right Foot,,N'Golo Kanté,Pass (Live),Ousmane Dembélé,Pass (Live),Austria-France-June-17-2024-European-Championship
+237,Marcus Thuram,fr France,0.02,,Off Target,19,Right Foot,,Theo Hernández,Pass (Live),Marcus Thuram,Pass (Live),Austria-France-June-17-2024-European-Championship
+238,Christoph Baumgartner,at Austria,0.14,0.38,Saved,9,Right Foot,,Marko Arnautović,Pass (Live),,,Austria-France-June-17-2024-European-Championship
+239,Marcus Thuram,fr France,0.06,0.12,Saved,12,Left Foot,,Eduardo Camavinga,Pass (Live),Eduardo Camavinga,Pass (Live),Austria-France-June-17-2024-European-Championship
+240,Kylian Mbappé,fr France,0.07,,Blocked,10,Head,,Antoine Griezmann,Pass (Dead),Kylian Mbappé,Fouled,Austria-France-June-17-2024-European-Championship
+241,Patrick Wimmer,at Austria,0.02,0.21,Saved,10,Head,,Stefan Posch,Pass (Dead),,,Austria-France-June-17-2024-European-Championship
+242,Marcus Thuram,fr France,0.02,,Blocked,22,Right Foot,,Olivier Giroud,Pass (Live),N'Golo Kanté,Pass (Live),Austria-France-June-17-2024-European-Championship
+243,Kaan Ayhan,tr Türkiye,0.10,,Off Target,8,Head,,Hakan Çalhanoğlu,Pass (Dead),Abdülkerim Bardakcı,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+244,Hakan Çalhanoğlu,tr Türkiye,0.03,,Blocked,27,Right Foot,,Mert Müldür,Pass (Live),Hakan Çalhanoğlu,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+245,Abdülkerim Bardakcı,tr Türkiye,0.06,,Off Target,8,Head,,Abdülkerim Bardakcı,Pass (Live),Ferdi Kadioglu,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+246,Kaan Ayhan,tr Türkiye,0.06,,Woodwork,24,Right Foot,,Kenan Yıldız,Pass (Live),Kenan Yıldız,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+247,Anzor Mekvabishvili,ge Georgia,0.02,0.07,Saved,33,Right Foot,Deflected,Khvicha Kvaratskhelia,Pass (Live),Giorgi Chakvetadze,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+248,Georges Mikautadze,ge Georgia,0.03,,Off Target,21,Right Foot,,Anzor Mekvabishvili,Shot,,,Turkiye-Georgia-June-18-2024-European-Championship
+249,Kenan Yıldız,tr Türkiye,0.01,0.04,Saved,18,Left Foot,,Kaan Ayhan,Pass (Live),Ferdi Kadioglu,Pass (Dead),Turkiye-Georgia-June-18-2024-European-Championship
+250,Hakan Çalhanoğlu,tr Türkiye,0.06,,Off Target,16,Right Foot,Volley,Ferdi Kadioglu,Pass (Live),Kenan Yıldız,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+251,Orkun Kökçü,tr Türkiye,0.01,,Blocked,32,Right Foot,,Ferdi Kadioglu,Pass (Live),Abdülkerim Bardakcı,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+252,Mert Müldür,tr Türkiye,0.03,0.42,Goal,18,Right Foot,Volley,Orkun Kökçü,Pass (Live),Kenan Yıldız,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+253,Orkun Kökçü,tr Türkiye,0.43,,Off Target,10,Right Foot,,Arda Güler,Pass (Live),Barış Alper Yılmaz,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+254,Heorhii Tsitaishvili,ge Georgia,0.02,0.14,Saved,17,Left Foot,,Georges Mikautadze,Pass (Live),Anzor Mekvabishvili,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+255,Georges Mikautadze,ge Georgia,0.33,0.86,Goal,9,Right Foot,,Giorgi Kochorashvili,Pass (Live),Otar Kakabadze,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+256,Georges Mikautadze,ge Georgia,0.16,,Off Target,13,Right Foot,Volley,Otar Kakabadze,Pass (Live),Giorgi Chakvetadze,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+257,Giorgi Kochorashvili,ge Georgia,0.05,,Blocked,23,Right Foot,,Khvicha Kvaratskhelia,Pass (Live),Otar Kakabadze,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+258,Kaan Ayhan,tr Türkiye,0.14,,Blocked,14,Left Foot,,Orkun Kökçü,Fouled,Hakan Çalhanoğlu,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+259,Ferdi Kadioglu,tr Türkiye,0.01,,Off Target,42,Right Foot,,Orkun Kökçü,Fouled,Kaan Ayhan,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+260,,,,,,,,,,,,,Turkiye-Georgia-June-18-2024-European-Championship
+261,Mert Müldür,tr Türkiye,0.50,0.33,Saved,9,Left Foot,,Barış Alper Yılmaz,Pass (Live),Kaan Ayhan,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+262,Barış Alper Yılmaz,tr Türkiye,0.10,,Blocked,13,Left Foot,,Arda Güler,Pass (Live),Samet Akaydın,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+263,Heorhii Tsitaishvili,ge Georgia,0.03,0.06,Saved,16,Left Foot,,Georges Mikautadze,Pass (Live),Otar Kakabadze,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+264,Georges Mikautadze,ge Georgia,0.17,,Blocked,9,Right Foot,,Khvicha Kvaratskhelia,Pass (Live),Heorhii Tsitaishvili,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+265,Hakan Çalhanoğlu,tr Türkiye,0.04,0.04,Saved,33,Right Foot,Free kick,Kaan Ayhan,Fouled,Kenan Yıldız,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+266,Kenan Yıldız,tr Türkiye,0.02,,Blocked,22,Right Foot,,Ferdi Kadioglu,Pass (Live),Kenan Yıldız,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+267,Mert Müldür,tr Türkiye,0.02,,Blocked,25,Right Foot,,Arda Güler,Pass (Live),Orkun Kökçü,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+268,Hakan Çalhanoğlu,tr Türkiye,0.02,,Blocked,25,Right Foot,,Barış Alper Yılmaz,Pass (Live),Arda Güler,Take-On,Turkiye-Georgia-June-18-2024-European-Championship
+269,Khvicha Kvaratskhelia,ge Georgia,0.15,,Off Target,13,Right Foot,,Heorhii Tsitaishvili,Pass (Live),Khvicha Kvaratskhelia,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+270,Arda Güler,tr Türkiye,0.03,0.56,Goal,27,Left Foot,,Kaan Ayhan,Tackle,,,Turkiye-Georgia-June-18-2024-European-Championship
+271,Orkun Kökçü,tr Türkiye,0.40,0.70,Saved,11,Left Foot,,Ferdi Kadioglu,Pass (Live),Kenan Yıldız,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+272,Giorgi Kochorashvili,ge Georgia,0.12,,Woodwork,13,Right Foot,,Giorgi Kochorashvili,Take-On,Georges Mikautadze,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+273,Orkun Kökçü,tr Türkiye,0.01,,Off Target,64,Right Foot,,Hakan Çalhanoğlu,Pass (Live),Abdülkerim Bardakcı,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+274,Luka Lochoshvili,ge Georgia,0.06,,Off Target,10,Head,,Khvicha Kvaratskhelia,Pass (Live),Otar Kakabadze,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+275,Yusuf Yazıcı,tr Türkiye,0.14,0.48,Saved,10,Head,,Zeki Çelik,Pass (Live),Samet Akaydın,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+276,Budu Zivzivadze,ge Georgia,0.09,,Blocked,7,Left Foot,Volley,Khvicha Kvaratskhelia,Pass (Live),Lasha Dvali,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+277,Giorgi Kochorashvili,ge Georgia,0.11,,Off Target,9,Left Foot,Volley,Budu Zivzivadze,Shot,,,Turkiye-Georgia-June-18-2024-European-Championship
+278,Zuriko Davitashvili,ge Georgia,0.04,,Blocked,13,Right Foot,Volley,Giorgi Kochorashvili,Fouled,Luka Lochoshvili,Pass (Live),Turkiye-Georgia-June-18-2024-European-Championship
+279,Kerem Aktürkoğlu,tr Türkiye,0.78,0.48,Goal,27,Right Foot,,Orkun Kökçü,Tackle,,,Turkiye-Georgia-June-18-2024-European-Championship
+280,Pavel Šulc,cz Czechia,0.09,,Blocked,18,Right Foot,,Patrik Schick,Pass (Live),Lukáš Provod,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+281,Cristiano Ronaldo,pt Portugal,0.04,,Off Target,12,Head,,Rafael Leão,Pass (Live),Vitinha,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+282,Nuno Mendes,pt Portugal,0.02,,Off Target,33,Left Foot,,Bruno Fernandes,Pass (Live),Diogo Dalot,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+283,Rúben Dias,pt Portugal,0.04,,Blocked,24,Right Foot,,Vitinha,Pass (Live),Nuno Mendes,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+284,João Cancelo,pt Portugal,0.04,,Blocked,18,Right Foot,,Pepe,Pass (Live),Bruno Fernandes,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+285,Bruno Fernandes,pt Portugal,0.01,,Blocked,30,Right Foot,,Nuno Mendes,Pass (Live),João Cancelo,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+286,Cristiano Ronaldo,pt Portugal,0.56,0.77,Saved,11,Left Foot,,Bruno Fernandes,Pass (Live),Pepe,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+287,Vitinha,pt Portugal,0.02,0.21,Saved,26,Right Foot,,Cristiano Ronaldo,Shot,,,Portugal-Czechia-June-18-2024-European-Championship
+288,Vitinha,pt Portugal,0.10,,Blocked,13,Right Foot,,Cristiano Ronaldo,Pass (Live),Bruno Fernandes,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+289,Cristiano Ronaldo,pt Portugal,0.02,0.08,Saved,14,Left Foot,,João Cancelo,Pass (Live),Bruno Fernandes,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+290,,,,,,,,,,,,,Portugal-Czechia-June-18-2024-European-Championship
+291,Diogo Dalot,pt Portugal,0.02,,Off Target,23,Left Foot,,Bernardo Silva,Pass (Live),Rúben Dias,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+292,Bernardo Silva,pt Portugal,0.02,,Off Target,22,Left Foot,,Bruno Fernandes,Pass (Dead),Vitinha,Fouled,Portugal-Czechia-June-18-2024-European-Championship
+293,Cristiano Ronaldo,pt Portugal,0.07,,Blocked,10,Head,,Rúben Dias,Pass (Live),Vitinha,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+294,Cristiano Ronaldo,pt Portugal,0.04,0.06,Saved,31,Right Foot,Free kick,João Cancelo,Fouled,Vitinha,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+295,Rafael Leão,pt Portugal,0.03,,Blocked,18,Right Foot,,Diogo Dalot,Pass (Live),Diogo Dalot,Take-On,Portugal-Czechia-June-18-2024-European-Championship
+296,Mojmir Chytil,cz Czechia,0.02,,Off Target,15,Head,,Vladimír Coufal,Pass (Live),Ondřej Lingr,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+297,Lukáš Provod,cz Czechia,0.07,0.34,Goal,24,Right Foot,,Vladimír Coufal,Pass (Live),Mojmir Chytil,Shot,Portugal-Czechia-June-18-2024-European-Championship
+298,Nuno Mendes,pt Portugal,0.05,0.04,Saved,7,Head,,Vitinha,Pass (Live),Bernardo Silva,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+299,Bernardo Silva,pt Portugal,0.04,0.06,Saved,18,Left Foot,,Diogo Jota,Tackle,,,Portugal-Czechia-June-18-2024-European-Championship
+300,Vitinha,pt Portugal,0.03,0.09,Saved,31,Right Foot,,Cristiano Ronaldo,Pass (Live),Bruno Fernandes,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+301,Bruno Fernandes,pt Portugal,0.01,,Blocked,22,Right Foot,Deflected,Bernardo Silva,Pass (Live),Bruno Fernandes,Pass (Dead),Portugal-Czechia-June-18-2024-European-Championship
+302,Petr Ševčík,cz Czechia,0.12,,Blocked,17,Left Foot,,Mojmir Chytil,Pass (Live),Antonín Barák,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+303,Tomáš Souček,cz Czechia,0.13,,Off Target,22,Left Foot,,Petr Ševčík,Shot,,,Portugal-Czechia-June-18-2024-European-Championship
+304,Francisco Conceição,pt Portugal,0.72,0.97,Goal,4,Left Foot,,Pedro Neto,Take-On,Gonçalo Inácio,Pass (Live),Portugal-Czechia-June-18-2024-European-Championship
+305,Qazim Laçi,al Albania,0.34,0.47,Goal,8,Head,,Jasir Asani,Pass (Live),Ylber Ramadani,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+306,Nedim Bajrami,al Albania,0.02,,Blocked,17,Right Foot,,Elseid Hysaj,Pass (Live),Jasir Asani,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+307,Elseid Hysaj,al Albania,0.03,,Blocked,25,Left Foot,Volley,Kristjan Asllani,Pass (Dead),Nedim Bajrami,Shot,Croatia-Albania-June-19-2024-European-Championship
+308,Mateo Kovačić,hr Croatia,0.02,,Blocked,28,Right Foot,,Andrej Kramarić,Pass (Live),Josip Šutalo,Tackle,Croatia-Albania-June-19-2024-European-Championship
+309,Marcelo Brozović,hr Croatia,0.03,,Off Target,21,Right Foot,,Mateo Kovačić,Pass (Live),Andrej Kramarić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+310,Bruno Petković,hr Croatia,0.13,,Off Target,11,Head,,Lovro Majer,Pass (Live),Marcelo Brozović,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+311,Rey Manaj,al Albania,0.04,,Blocked,11,Head,,Jasir Asani,Pass (Live),Qazim Laçi,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+312,Elseid Hysaj,al Albania,0.06,,Off Target,18,Left Foot,,Rey Manaj,Shot,,,Croatia-Albania-June-19-2024-European-Championship
+313,Kristjan Asllani,al Albania,0.30,0.59,Saved,14,Right Foot,,,,,,Croatia-Albania-June-19-2024-European-Championship
+314,Marcelo Brozović,hr Croatia,0.02,0.03,Saved,33,Right Foot,,Luka Modrić,Pass (Live),Ivan Perišić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+315,Lovro Majer,hr Croatia,0.05,,Blocked,12,Head,,Andrej Kramarić,Pass (Live),Marcelo Brozović,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+316,Jasir Asani,al Albania,0.01,,Blocked,30,Left Foot,,Qazim Laçi,Pass (Live),,,Croatia-Albania-June-19-2024-European-Championship
+317,Rey Manaj,al Albania,0.11,0.48,Saved,11,Head,,Elseid Hysaj,Pass (Live),Jasir Asani,Shot,Croatia-Albania-June-19-2024-European-Championship
+318,,,,,,,,,,,,,Croatia-Albania-June-19-2024-European-Championship
+319,Bruno Petković,hr Croatia,0.06,,Blocked,10,Head,,Josip Juranović,Pass (Live),Luka Sučić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+320,Luka Sučić,hr Croatia,0.04,0.11,Saved,15,Left Foot,,Bruno Petković,Pass (Live),Luka Modrić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+321,Mario Pašalić,hr Croatia,0.14,,Off Target,5,Head,,Ivan Perišić,Pass (Live),Luka Sučić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+322,Mateo Kovačić,hr Croatia,0.04,0.07,Saved,26,Right Foot,Deflected,Andrej Kramarić,Pass (Live),Luka Sučić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+323,Mario Pašalić,hr Croatia,0.05,,Off Target,9,Head,,Ivan Perišić,Pass (Live),Andrej Kramarić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+324,Bruno Petković,hr Croatia,0.10,,Blocked,9,Head,,Josip Juranović,Pass (Live),Luka Modrić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+325,Josip Šutalo,hr Croatia,0.61,,Off Target,1,Head,,Luka Modrić,Pass (Dead),Bruno Petković,Shot,Croatia-Albania-June-19-2024-European-Championship
+326,Luka Modrić,hr Croatia,0.01,,Blocked,26,Right Foot,,Luka Modrić,Pass (Live),Joško Gvardiol,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+327,Ivan Perišić,hr Croatia,0.04,0.41,Saved,27,Left Foot,Deflected,Mateo Kovačić,Pass (Live),Luka Modrić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+328,Kristjan Asllani,al Albania,0.03,0.04,Saved,24,Right Foot,,Qazim Laçi,Pass (Live),Nedim Bajrami,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+329,Nedim Bajrami,al Albania,0.05,,Off Target,18,Right Foot,,Kristjan Asllani,Pass (Live),Kristjan Asllani,Interception,Croatia-Albania-June-19-2024-European-Championship
+330,Mario Pašalić,hr Croatia,0.18,,Off Target,7,Head,,Ivan Perišić,Pass (Live),Andrej Kramarić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+331,Taulant Seferi,al Albania,0.02,0.08,Saved,30,Right Foot,,Taulant Seferi,Tackle,,,Croatia-Albania-June-19-2024-European-Championship
+332,Andrej Kramarić,hr Croatia,0.22,0.71,Goal,12,Right Foot,,Ante Budimir,Pass (Live),Mateo Kovačić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+333,Ante Budimir,hr Croatia,0.15,0.68,Saved,5,Left Foot,,,,,,Croatia-Albania-June-19-2024-European-Championship
+334,Luka Sučić,hr Croatia,0.52,,Blocked,10,Left Foot,,Ante Budimir,Pass (Live),Ante Budimir,Take-On,Croatia-Albania-June-19-2024-European-Championship
+335,Ante Budimir,hr Croatia,0.07,0.34,Saved,14,Left Foot,Deflected,Luka Modrić,Pass (Live),Luka Sučić,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+336,Luka Modrić,hr Croatia,0.05,,Off Target,27,Right Foot,,Mateo Kovačić,Pass (Live),Luka Sučić,Take-On,Croatia-Albania-June-19-2024-European-Championship
+337,Martin Baturina,hr Croatia,0.07,0.50,Saved,13,Right Foot,,Martin Baturina,Take-On,Martin Baturina,Take-On,Croatia-Albania-June-19-2024-European-Championship
+338,Arbër Hoxha,al Albania,0.05,0.11,Saved,25,Right Foot,,Mirlind Daku,Pass (Live),Berat Djimsiti,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+339,Mirlind Daku,al Albania,0.11,,Blocked,11,Right Foot,,Taulant Seferi,Pass (Live),Arbër Hoxha,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+340,Klaus Gjasula,al Albania,0.22,0.65,Goal,13,Left Foot,Deflected,Arbër Hoxha,Pass (Live),Kristjan Asllani,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+341,Klaus Gjasula,al Albania,0.08,,Blocked,23,Right Foot,,Mirlind Daku,Pass (Live),Klaus Gjasula,Pass (Live),Croatia-Albania-June-19-2024-European-Championship
+342,Mateo Kovačić,hr Croatia,0.09,0.06,Saved,16,Left Foot,,Luka Sučić,Pass (Live),Luka Sučić,Take-On,Croatia-Albania-June-19-2024-European-Championship
+343,Roland Sallai,hu Hungary,0.13,0.44,Saved,8,Right Foot,,Roland Sallai,Interception,,,Germany-Hungary-June-19-2024-European-Championship
+344,Kai Havertz,de Germany,0.04,0.09,Saved,21,Left Foot,,Joshua Kimmich,Pass (Live),Antonio Rüdiger,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+345,Bendegúz Bolla,hu Hungary,0.03,,Blocked,16,Right Foot,,Roland Sallai,Pass (Live),,,Germany-Hungary-June-19-2024-European-Championship
+346,Kai Havertz,de Germany,0.18,0.74,Saved,4,Left Foot,Volley,Antonio Rüdiger,Pass (Live),Toni Kroos,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+347,Robert Andrich,de Germany,0.04,,Blocked,13,Right Foot,Volley,Toni Kroos,Pass (Dead),Kai Havertz,Shot,Germany-Hungary-June-19-2024-European-Championship
+348,Roland Sallai,hu Hungary,0.15,,Blocked,20,Right Foot,,Bendegúz Bolla,Pass (Live),Dominik Szoboszlai,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+349,Jamal Musiala,de Germany,0.16,0.88,Goal,9,Right Foot,Deflected,İlkay Gündoğan,Pass (Live),,,Germany-Hungary-June-19-2024-European-Championship
+350,Dominik Szoboszlai,hu Hungary,0.04,0.22,Saved,26,Right Foot,Free kick,Milos Kerkez,Fouled,Márton Dárdai,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+351,Barnabás Varga,hu Hungary,0.19,0.49,Saved,4,Left Foot,,Dominik Szoboszlai,Shot,,,Germany-Hungary-June-19-2024-European-Championship
+352,İlkay Gündoğan,de Germany,0.06,,Blocked,16,Left Foot,Volley,Toni Kroos,Pass (Dead),İlkay Gündoğan,Fouled,Germany-Hungary-June-19-2024-European-Championship
+353,Dominik Szoboszlai,hu Hungary,0.06,,Blocked,13,Left Foot,Volley,Milos Kerkez,Pass (Live),Roland Sallai,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+354,Bendegúz Bolla,hu Hungary,0.02,,Off Target,22,Right Foot,Volley,Dominik Szoboszlai,Shot,,,Germany-Hungary-June-19-2024-European-Championship
+355,Maximilian Mittelstädt,de Germany,0.04,,Blocked,23,Right Foot,Volley,Jamal Musiala,Pass (Live),Jonathan Tah,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+356,Florian Wirtz,de Germany,0.03,,Blocked,24,Right Foot,,Joshua Kimmich,Pass (Live),Jamal Musiala,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+357,Jamal Musiala,de Germany,0.05,,Blocked,18,Right Foot,,Florian Wirtz,Pass (Live),Toni Kroos,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+358,,,,,,,,,,,,,Germany-Hungary-June-19-2024-European-Championship
+359,Antonio Rüdiger,de Germany,0.02,,Blocked,31,Right Foot,,Joshua Kimmich,Pass (Live),İlkay Gündoğan,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+360,Toni Kroos,de Germany,0.05,0.25,Saved,22,Right Foot,"Deflected, Volley",Joshua Kimmich,Pass (Live),Antonio Rüdiger,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+361,Roland Sallai,hu Hungary,0.10,,Off Target,13,Right Foot,,Dominik Szoboszlai,Shot,,,Germany-Hungary-June-19-2024-European-Championship
+362,Dominik Szoboszlai,hu Hungary,0.02,,Off Target,22,Right Foot,Volley,Attila Fiola,Pass (Dead),Dominik Szoboszlai,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+363,Barnabás Varga,hu Hungary,0.18,,Off Target,7,Head,,Roland Sallai,Pass (Live),Márton Dárdai,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+364,Jamal Musiala,de Germany,0.03,,Off Target,24,Right Foot,,Jonathan Tah,Pass (Live),Leroy Sané,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+365,İlkay Gündoğan,de Germany,0.23,0.71,Goal,13,Left Foot,,Maximilian Mittelstädt,Pass (Live),Jamal Musiala,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+366,Joshua Kimmich,de Germany,0.02,,Off Target,16,Right Foot,,Leroy Sané,Pass (Live),Toni Kroos,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+367,Joshua Kimmich,de Germany,0.08,0.14,Saved,14,Left Foot,,Leroy Sané,Pass (Live),Toni Kroos,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+368,Leroy Sané,de Germany,0.04,0.20,Saved,22,Right Foot,,İlkay Gündoğan,Pass (Live),Leroy Sané,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+369,Leroy Sané,de Germany,0.07,,Off Target,30,Left Foot,Free kick,Maximilian Mittelstädt,Fouled,İlkay Gündoğan,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+370,Chris Führich,de Germany,0.04,,Off Target,13,Right Foot,,Emre Can,Pass (Live),Toni Kroos,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+371,Niclas Füllkrug,de Germany,0.14,,Off Target,8,Head,,Joshua Kimmich,Pass (Live),Joshua Kimmich,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+372,Leroy Sané,de Germany,0.10,,Blocked,15,Left Foot,,Niclas Füllkrug,Pass (Live),Joshua Kimmich,Pass (Live),Germany-Hungary-June-19-2024-European-Championship
+373,Willi Orban,hu Hungary,0.27,,Blocked,10,Right Foot,Volley,András Schäfer,Pass (Dead),Kevin Csoboth,Fouled,Germany-Hungary-June-19-2024-European-Championship
+374,Scott McTominay,sct Scotland,0.11,0.49,Goal,16,Left Foot,Deflected,Callum McGregor,Pass (Live),Andrew Robertson,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+375,Ricardo Rodríguez,ch Switzerland,0.02,,Off Target,21,Left Foot,Volley,,,,,Scotland-Switzerland-June-19-2024-European-Championship
+376,Xherdan Shaqiri,ch Switzerland,0.07,0.40,Goal,23,Left Foot,,,,,,Scotland-Switzerland-June-19-2024-European-Championship
+377,Silvan Widmer,ch Switzerland,0.08,,Off Target,17,Right Foot,,Ruben Vargas,Pass (Live),Manuel Akanji,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+378,Dan Ndoye,ch Switzerland,0.16,,Blocked,10,Right Foot,,Ruben Vargas,Pass (Live),Michel Aebischer,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+379,Dan Ndoye,ch Switzerland,0.14,0.21,Saved,11,Right Foot,,Dan Ndoye,Take-On,Ruben Vargas,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+380,Jack Hendry,sct Scotland,0.03,,Off Target,13,Head,,Scott McTominay,Pass (Dead),Che Adams,Fouled,Scotland-Switzerland-June-19-2024-European-Championship
+381,Che Adams,sct Scotland,0.10,0.64,Saved,4,Right Foot,Volley,Scott McTominay,Pass (Dead),Grant Hanley,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+382,Granit Xhaka,ch Switzerland,0.03,0.16,Saved,18,Left Foot,,Dan Ndoye,Pass (Live),Xherdan Shaqiri,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+383,,,,,,,,,,,,,Scotland-Switzerland-June-19-2024-European-Championship
+384,Ruben Vargas,ch Switzerland,0.03,0.05,Saved,19,Right Foot,,Fabian Schär,Pass (Live),Granit Xhaka,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+385,Dan Ndoye,ch Switzerland,0.36,,Off Target,18,Right Foot,,Ruben Vargas,Pass (Live),Ricardo Rodríguez,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+386,Ruben Vargas,ch Switzerland,0.04,,Off Target,16,Right Foot,,Fabian Schär,Pass (Live),Remo Freuler,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+387,Billy Gilmour,sct Scotland,0.03,,Blocked,30,Right Foot,,Callum McGregor,Pass (Live),,,Scotland-Switzerland-June-19-2024-European-Championship
+388,Grant Hanley,sct Scotland,0.23,,Woodwork,6,Head,,Andrew Robertson,Pass (Dead),Scott McTominay,Fouled,Scotland-Switzerland-June-19-2024-European-Championship
+389,Scott McKenna,sct Scotland,0.01,,Off Target,16,Head,,Andrew Robertson,Pass (Dead),John McGinn,Fouled,Scotland-Switzerland-June-19-2024-European-Championship
+390,Billy Gilmour,sct Scotland,0.01,,Blocked,10,Head,,Che Adams,Pass (Live),Scott McTominay,Pass (Dead),Scotland-Switzerland-June-19-2024-European-Championship
+391,Dan Ndoye,ch Switzerland,0.04,,Off Target,15,Right Foot,,Michel Aebischer,Pass (Live),Ricardo Rodríguez,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+392,Scott McTominay,sct Scotland,0.04,,Off Target,12,Head,,Andrew Robertson,Pass (Live),John McGinn,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+393,Scott McTominay,sct Scotland,0.08,,Blocked,14,Right Foot,Volley,Anthony Ralston,Pass (Live),Scott McTominay,Shot,Scotland-Switzerland-June-19-2024-European-Championship
+394,Scott McTominay,sct Scotland,0.06,,Blocked,14,Right Foot,Volley,Scott McTominay,Shot,,,Scotland-Switzerland-June-19-2024-European-Championship
+395,Kenny McLean,sct Scotland,0.01,0.08,Saved,25,Left Foot,,Anthony Ralston,Pass (Live),Kenny McLean,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+396,Zeki Amdouni,ch Switzerland,0.17,,Off Target,8,Head,,Fabian Rieder,Pass (Dead),Fabian Rieder,Fouled,Scotland-Switzerland-June-19-2024-European-Championship
+397,Callum McGregor,sct Scotland,0.04,,Off Target,23,Left Foot,Volley,Callum McGregor,Pass (Live),Ryan Christie,Pass (Live),Scotland-Switzerland-June-19-2024-European-Championship
+398,Adam Gnezda Čerin,si Slovenia,0.04,0.04,Saved,28,Right Foot,,Andraž Šporar,Tackle,,,Slovenia-Serbia-June-20-2024-European-Championship
+399,Jan Mlakar,si Slovenia,0.09,0.08,Saved,14,Right Foot,,Jan Mlakar,Take-On,Petar Stojanović,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+400,Andraž Šporar,si Slovenia,0.10,,Blocked,12,Right Foot,,Vanja Drkušič,Pass (Live),Petar Stojanović,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+401,Timi Elšnik,si Slovenia,0.03,,Blocked,31,Left Foot,,Petar Stojanović,Pass (Live),Adam Gnezda Čerin,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+402,Dušan Vlahović,rs Serbia,0.07,0.06,Saved,10,Head,,Ivan Ilić,Pass (Live),Filip Mladenović,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+403,Jan Mlakar,si Slovenia,0.03,,Off Target,19,Left Foot,Volley,Erik Janža,Pass (Live),Jan Mlakar,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+404,Timi Elšnik,si Slovenia,0.22,,Woodwork,15,Right Foot,,Timi Elšnik,Take-On,,,Slovenia-Serbia-June-20-2024-European-Championship
+405,Benjamin Šeško,si Slovenia,0.37,,Off Target,11,Right Foot,,Timi Elšnik,Shot,,,Slovenia-Serbia-June-20-2024-European-Championship
+406,Dušan Vlahović,rs Serbia,0.05,,Blocked,28,Left Foot,Free kick,Dušan Vlahović,Fouled,Predrag Rajković,Pass (Dead),Slovenia-Serbia-June-20-2024-European-Championship
+407,Dušan Vlahović,rs Serbia,0.01,,Blocked,27,Left Foot,Volley,Dušan Vlahović,Shot,,,Slovenia-Serbia-June-20-2024-European-Championship
+408,Aleksandar Mitrović,rs Serbia,0.26,0.75,Saved,4,Right Foot,,Aleksandar Mitrović,Take-On,Andrija Živković,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+409,Saša Lukić,rs Serbia,0.08,,Blocked,17,Right Foot,,Saša Lukić,Pass (Live),,,Slovenia-Serbia-June-20-2024-European-Championship
+410,Petar Stojanović,si Slovenia,0.03,,Blocked,28,Right Foot,,Andraž Šporar,Pass (Live),Žan Karničnik,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+411,Aleksandar Mitrović,rs Serbia,0.06,,Off Target,7,Head,,Andrija Živković,Pass (Live),Dušan Tadić,Pass (Dead),Slovenia-Serbia-June-20-2024-European-Championship
+412,,,,,,,,,,,,,Slovenia-Serbia-June-20-2024-European-Championship
+413,Aleksandar Mitrović,rs Serbia,0.31,0.66,Saved,10,Right Foot,,Dušan Tadić,Pass (Live),Aleksandar Mitrović,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+414,Aleksandar Mitrović,rs Serbia,0.06,,Blocked,11,Head,,Dušan Tadić,Pass (Live),Ivan Ilić,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+415,Benjamin Šeško,si Slovenia,0.02,0.13,Saved,27,Right Foot,,Timi Elšnik,Pass (Live),Benjamin Šeško,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+416,Aleksandar Mitrović,rs Serbia,0.04,,Off Target,17,Right Foot,Volley,Andrija Živković,Pass (Live),,,Slovenia-Serbia-June-20-2024-European-Championship
+417,Žan Karničnik,si Slovenia,0.50,0.97,Goal,6,Right Foot,,Timi Elšnik,Pass (Live),Žan Karničnik,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+418,Aleksandar Mitrović,rs Serbia,0.23,,Blocked,7,Right Foot,,Andrija Živković,Pass (Live),Andrija Živković,Take-On,Slovenia-Serbia-June-20-2024-European-Championship
+419,Sergej Milinković-Savić,rs Serbia,0.12,,Blocked,8,Head,,Dušan Tadić,Pass (Dead),Dušan Tadić,Fouled,Slovenia-Serbia-June-20-2024-European-Championship
+420,Žan Karničnik,si Slovenia,0.03,,Off Target,26,Right Foot,,Andraž Šporar,Pass (Live),Žan Karničnik,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+421,Lazar Samardzic,rs Serbia,0.08,,Off Target,21,Left Foot,,Lazar Samardzic,Take-On,Ivan Ilić,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+422,Ivan Ilić,rs Serbia,0.02,,Blocked,24,Left Foot,,Veljko Birmančević,Fouled,Strahinja Pavlović,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+423,Mijat Gaćinović,rs Serbia,0.06,,Blocked,16,Right Foot,,Strahinja Pavlović,Pass (Live),Miloš Veljković,Pass (Live),Slovenia-Serbia-June-20-2024-European-Championship
+424,Luka Jović,rs Serbia,0.19,0.32,Goal,6,Head,,Ivan Ilić,Pass (Dead),Mijat Gaćinović,Shot,Slovenia-Serbia-June-20-2024-European-Championship
+425,Pierre Højbjerg,dk Denmark,0.03,0.03,Saved,24,Right Foot,,Christian Eriksen,Pass (Live),Pierre Højbjerg,Pass (Live),Denmark-England-June-20-2024-European-Championship
+426,Phil Foden,eng England,0.08,,Off Target,16,Left Foot,,Phil Foden,Take-On,Kyle Walker,Pass (Live),Denmark-England-June-20-2024-European-Championship
+427,Harry Kane,eng England,0.06,,Blocked,24,Left Foot,,,,,,Denmark-England-June-20-2024-European-Championship
+428,Harry Kane,eng England,0.23,0.95,Goal,7,Left Foot,,Jude Bellingham,Pass (Live),Bukayo Saka,Pass (Live),Denmark-England-June-20-2024-European-Championship
+429,Christian Eriksen,dk Denmark,0.02,,Blocked,18,Right Foot,,Christian Eriksen,Take-On,Jonas Wind,Pass (Live),Denmark-England-June-20-2024-European-Championship
+430,Jonas Wind,dk Denmark,0.05,0.05,Saved,9,Head,,Joachim Andersen,Pass (Live),Joakim Mæhle,Pass (Live),Denmark-England-June-20-2024-European-Championship
+431,Christian Eriksen,dk Denmark,0.03,,Blocked,19,Right Foot,,Jonas Wind,Pass (Live),Jannik Vestergaard,Pass (Live),Denmark-England-June-20-2024-European-Championship
+432,Marc Guéhi,eng England,0.03,,Off Target,9,Right Foot,Volley,Trent Alexander-Arnold,Pass (Live),Kieran Trippier,Pass (Dead),Denmark-England-June-20-2024-European-Championship
+433,Jonas Wind,dk Denmark,0.06,,Blocked,11,Right Foot,,Pierre Højbjerg,Pass (Live),Jonas Wind,Pass (Live),Denmark-England-June-20-2024-European-Championship
+434,Morten Hjulmand,dk Denmark,0.02,0.31,Goal,34,Right Foot,,Victor Bernth Kristiansen,Pass (Live),,,Denmark-England-June-20-2024-European-Championship
+435,Morten Hjulmand,dk Denmark,0.03,,Blocked,25,Right Foot,,Joakim Mæhle,Pass (Live),Joachim Andersen,Pass (Live),Denmark-England-June-20-2024-European-Championship
+436,Joachim Andersen,dk Denmark,0.01,,Off Target,9,Head,,Christian Eriksen,Pass (Dead),Morten Hjulmand,Shot,Denmark-England-June-20-2024-European-Championship
+437,Phil Foden,eng England,0.01,0.02,Saved,28,Left Foot,,Phil Foden,Take-On,Phil Foden,Take-On,Denmark-England-June-20-2024-European-Championship
+438,Pierre Højbjerg,dk Denmark,0.01,0.09,Saved,26,Right Foot,,Rasmus Højlund,Pass (Live),Christian Eriksen,Pass (Live),Denmark-England-June-20-2024-European-Championship
+439,Phil Foden,eng England,0.01,,Off Target,24,Left Foot,,Bukayo Saka,Pass (Live),Declan Rice,Pass (Live),Denmark-England-June-20-2024-European-Championship
+440,,,,,,,,,,,,,Denmark-England-June-20-2024-European-Championship
+441,Jonas Wind,dk Denmark,0.04,,Blocked,20,Left Foot,,Rasmus Højlund,Pass (Live),Jonas Wind,Pass (Live),Denmark-England-June-20-2024-European-Championship
+442,Declan Rice,eng England,0.01,0.06,Saved,27,Right Foot,Deflected,Kieran Trippier,Pass (Live),Jude Bellingham,Pass (Live),Denmark-England-June-20-2024-European-Championship
+443,Bukayo Saka,eng England,0.08,,Off Target,7,Head,,Trent Alexander-Arnold,Pass (Live),Kieran Trippier,Pass (Live),Denmark-England-June-20-2024-European-Championship
+444,Phil Foden,eng England,0.02,,Woodwork,25,Left Foot,,Bukayo Saka,Pass (Live),Kyle Walker,Pass (Live),Denmark-England-June-20-2024-European-Championship
+445,Bukayo Saka,eng England,0.13,,Off Target,12,Right Foot,,Phil Foden,Shot,,,Denmark-England-June-20-2024-European-Championship
+446,Bukayo Saka,eng England,0.02,,Off Target,19,Left Foot,,Bukayo Saka,Take-On,Harry Kane,Pass (Live),Denmark-England-June-20-2024-European-Championship
+447,Christian Eriksen,dk Denmark,0.03,,Off Target,28,Left Foot,,,,,,Denmark-England-June-20-2024-European-Championship
+448,Mikkel Damsgaard,dk Denmark,0.01,0.06,Saved,26,Right Foot,Volley,Morten Hjulmand,Pass (Live),Christian Eriksen,Pass (Dead),Denmark-England-June-20-2024-European-Championship
+449,Ollie Watkins,eng England,0.17,0.61,Saved,9,Right Foot,,Jude Bellingham,Pass (Live),Eberechi Eze,Pass (Live),Denmark-England-June-20-2024-European-Championship
+450,Pierre Højbjerg,dk Denmark,0.01,0.20,Saved,31,Right Foot,,Christian Eriksen,Pass (Live),Jannik Vestergaard,Pass (Live),Denmark-England-June-20-2024-European-Championship
+451,Pierre Højbjerg,dk Denmark,0.01,0.05,Saved,34,Right Foot,,Christian Eriksen,Pass (Live),Morten Hjulmand,Pass (Live),Denmark-England-June-20-2024-European-Championship
+452,Andreas Christensen,dk Denmark,0.42,,Off Target,8,Right Foot,,Andreas Skov Olsen,Pass (Dead),Alexander Bah,Tackle,Denmark-England-June-20-2024-European-Championship
+453,Pierre Højbjerg,dk Denmark,0.04,,Off Target,21,Right Foot,,Joakim Mæhle,Interception,,,Denmark-England-June-20-2024-European-Championship
+454,Pedri,es Spain,0.26,0.51,Saved,8,Head,,Nico Williams,Pass (Live),Marc Cucurella,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+455,Nico Williams,es Spain,0.34,,Off Target,7,Head,,Álvaro Morata,Pass (Live),Pedri,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+456,Álvaro Morata,es Spain,0.03,,Blocked,21,Right Foot,Deflected,Pedri,Pass (Live),Aymeric Laporte,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+457,Álvaro Morata,es Spain,0.08,0.55,Saved,7,Right Foot,,Lamine Yamal,Take-On,Robin Le Normand,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+458,Fabián Ruiz Peña,es Spain,0.02,0.23,Saved,33,Left Foot,,Rodri,Pass (Live),Robin Le Normand,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+459,Rodri,es Spain,0.02,,Off Target,36,Right Foot,,Pedri,Pass (Live),Aymeric Laporte,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+460,Rodri,es Spain,0.12,,Blocked,22,Right Foot,,Dani Carvajal,Pass (Live),Fabián Ruiz Peña,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+461,Fabián Ruiz Peña,es Spain,0.02,,Off Target,28,Left Foot,,Nico Williams,Pass (Dead),Nico Williams,Fouled,Spain-Italy-June-20-2024-European-Championship
+462,Fabián Ruiz Peña,es Spain,0.05,0.04,Saved,27,Left Foot,,Pedri,Pass (Live),Dani Carvajal,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+463,Federico Chiesa,it Italy,0.03,,Off Target,19,Right Foot,,Nicolò Barella,Pass (Live),,,Spain-Italy-June-20-2024-European-Championship
+464,,,,,,,,,,,,,Spain-Italy-June-20-2024-European-Championship
+465,Pedri,es Spain,0.42,,Off Target,9,Right Foot,,Marc Cucurella,Pass (Live),Nico Williams,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+466,Pedri,es Spain,0.04,0.02,Saved,28,Right Foot,,Fabián Ruiz Peña,Pass (Live),Marc Cucurella,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+467,Álvaro Morata,es Spain,0.04,,Saved off Target,10,Head,,Nico Williams,Pass (Live),Marc Cucurella,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+468,Álvaro Morata,es Spain,0.05,0.04,Saved,29,Right Foot,,Pedri,Pass (Live),Fabián Ruiz Peña,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+469,Robin Le Normand,es Spain,0.07,,Blocked,10,Head,Deflected,Nico Williams,Pass (Dead),Álvaro Morata,Shot,Spain-Italy-June-20-2024-European-Championship
+470,Lamine Yamal,es Spain,0.02,,Woodwork,27,Left Foot,,Fabián Ruiz Peña,Pass (Live),Lamine Yamal,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+471,Nico Williams,es Spain,0.03,,Woodwork,20,Right Foot,,Marc Cucurella,Pass (Live),Rodri,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+472,Lorenzo Pellegrini,it Italy,0.04,,Off Target,28,Right Foot,Free kick,Lorenzo Pellegrini,Fouled,Mattia Zaccagni,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+473,Ayoze Pérez,es Spain,0.08,,Blocked,12,Left Foot,,Alex Baena,Pass (Live),Rodri,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+474,Aymeric Laporte,es Spain,0.12,,Off Target,7,Head,,Ferrán Torres,Pass (Live),Alex Baena,Pass (Dead),Spain-Italy-June-20-2024-European-Championship
+475,Bryan Cristante,it Italy,0.06,0.08,Saved,6,Right Foot,,Giacomo Raspadori,Pass (Dead),,,Spain-Italy-June-20-2024-European-Championship
+476,Ayoze Pérez,es Spain,0.06,0.45,Saved,12,Right Foot,,Ayoze Pérez,Take-On,Marc Cucurella,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+477,Ayoze Pérez,es Spain,0.16,0.25,Saved,14,Right Foot,,Fabián Ruiz Peña,Pass (Live),Aymeric Laporte,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+478,Riccardo Calafiori,it Italy,0.03,,Off Target,18,Left Foot,Volley,Andrea Cambiaso,Pass (Live),Mattia Zaccagni,Pass (Live),Spain-Italy-June-20-2024-European-Championship
+479,Lukáš Haraslín,sk Slovakia,0.06,0.20,Saved,13,Left Foot,,Lukáš Haraslín,Take-On,Stanislav Lobotka,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+480,Ivan Schranz,sk Slovakia,0.10,0.68,Saved,4,Right Foot,"Deflected, Volley",Ondrej Duda,Pass (Live),Dávid Hancko,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+481,Ondrej Duda,sk Slovakia,0.02,,Off Target,22,Right Foot,,Lukáš Haraslín,Pass (Live),Peter Pekarík,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+482,Volodymyr Brazhko,ua Ukraine,0.03,0.02,Saved,31,Right Foot,,Heorhiy Sudakov,Pass (Live),Oleksandr Zinchenko,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+483,Dávid Hancko,sk Slovakia,0.10,0.39,Saved,22,Left Foot,Free kick,Stanislav Lobotka,Fouled,Ivan Schranz,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+484,Ivan Schranz,sk Slovakia,0.23,0.75,Goal,5,Head,,Lukáš Haraslín,Pass (Live),Dávid Hancko,Pass (Dead),Slovakia-Ukraine-June-21-2024-European-Championship
+485,Mykhailo Mudryk,ua Ukraine,0.05,,Off Target,28,Right Foot,,Illia Zabarnyi,Pass (Live),Mykola Matviyenko,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+486,Artem Dovbyk,ua Ukraine,0.11,,Blocked,10,Left Foot,,Artem Dovbyk,Take-On,Mykhailo Mudryk,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+487,Mykhailo Mudryk,ua Ukraine,0.04,,Blocked,18,Right Foot,,Oleksandr Zinchenko,Pass (Dead),Artem Dovbyk,Shot,Slovakia-Ukraine-June-21-2024-European-Championship
+488,Andriy Yarmolenko,ua Ukraine,0.32,,Off Target,8,Left Foot,Volley,Mykhailo Mudryk,Shot,,,Slovakia-Ukraine-June-21-2024-European-Championship
+489,Andriy Yarmolenko,ua Ukraine,0.08,,Blocked,11,Left Foot,,Artem Dovbyk,Pass (Live),Andriy Yarmolenko,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+490,Oleksandr Zinchenko,ua Ukraine,0.04,0.11,Saved,24,Left Foot,Free kick,Andriy Yarmolenko,Fouled,Oleksandr Tymchyk,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+491,Lukáš Haraslín,sk Slovakia,0.03,0.31,Saved,23,Right Foot,Deflected,Ondrej Duda,Pass (Live),Róbert Boženík,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+492,Juraj Kucka,sk Slovakia,0.07,,Off Target,19,Right Foot,Volley,Milan Škriniar,Pass (Live),Lukáš Haraslín,Shot,Slovakia-Ukraine-June-21-2024-European-Championship
+493,,,,,,,,,,,,,Slovakia-Ukraine-June-21-2024-European-Championship
+494,Artem Dovbyk,ua Ukraine,0.24,,Off Target,6,Head,,Mykhailo Mudryk,Pass (Live),Mykhailo Mudryk,Take-On,Slovakia-Ukraine-June-21-2024-European-Championship
+495,Mykola Shaparenko,ua Ukraine,0.22,0.73,Goal,12,Left Foot,,Oleksandr Zinchenko,Pass (Live),Heorhiy Sudakov,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+496,Ivan Schranz,sk Slovakia,0.02,,Blocked,25,Left Foot,,Juraj Kucka,Pass (Live),Ivan Schranz,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+497,Roman Yaremchuk,ua Ukraine,0.03,,Blocked,7,Head,,Mykhailo Mudryk,Pass (Dead),Oleksandr Zinchenko,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+498,Peter Pekarík,sk Slovakia,0.03,,Blocked,24,Left Foot,,László Bénes,Pass (Live),Tomáš Suslov,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+499,Mykhailo Mudryk,ua Ukraine,0.08,0.30,Saved,10,Left Foot,,Roman Yaremchuk,Pass (Live),Mykhailo Mudryk,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+500,Heorhiy Sudakov,ua Ukraine,0.04,,Blocked,24,Left Foot,,Mykola Matviyenko,Pass (Live),Volodymyr Brazhko,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+501,Roman Yaremchuk,ua Ukraine,0.23,0.59,Goal,6,Right Foot,,Mykola Shaparenko,Pass (Live),Illia Zabarnyi,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+502,László Bénes,sk Slovakia,0.10,,Blocked,16,Right Foot,,Juraj Kucka,Pass (Live),Peter Pekarík,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+503,Juraj Kucka,sk Slovakia,0.02,,Off Target,16,Head,,Tomáš Suslov,Pass (Live),Adam Obert,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+504,Juraj Kucka,sk Slovakia,0.05,,Off Target,27,Right Foot,Free kick,Milan Škriniar,Fouled,Stanislav Lobotka,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+505,Denis Vavro,sk Slovakia,0.02,,Blocked,8,Head,,László Bénes,Pass (Dead),Milan Škriniar,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+506,Milan Škriniar,sk Slovakia,0.02,,Blocked,34,Right Foot,,Stanislav Lobotka,Pass (Live),Adam Obert,Pass (Live),Slovakia-Ukraine-June-21-2024-European-Championship
+507,Jeremie Frimpong,nl Netherlands,0.02,0.24,Saved,16,Right Foot,,Xavi Simons,Pass (Live),,,Netherlands-France-June-21-2024-European-Championship
+508,Antoine Griezmann,fr France,0.02,0.08,Saved,27,Left Foot,,Adrien Rabiot,Pass (Live),Marcus Thuram,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+509,Antoine Griezmann,fr France,0.10,,Off Target,13,Left Foot,,N'Golo Kanté,Pass (Live),Aurélien Tchouaméni,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+510,Cody Gakpo,nl Netherlands,0.05,0.42,Saved,22,Right Foot,,Tijjani Reijnders,Pass (Live),Bart Verbruggen,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+511,Tijjani Reijnders,nl Netherlands,0.02,,Blocked,28,Right Foot,,Cody Gakpo,Pass (Live),Xavi Simons,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+512,Marcus Thuram,fr France,0.06,,Off Target,14,Right Foot,,Jules Koundé,Pass (Live),Mike Maignan,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+513,Jeremie Frimpong,nl Netherlands,0.04,,Blocked,15,Right Foot,,,,,,Netherlands-France-June-21-2024-European-Championship
+514,Xavi Simons,nl Netherlands,0.04,0.08,Saved,28,Right Foot,,Xavi Simons,Tackle,,,Netherlands-France-June-21-2024-European-Championship
+515,Antoine Griezmann,fr France,0.05,,Blocked,23,Left Foot,Free kick,Ousmane Dembélé,Fouled,Marcus Thuram,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+516,Antoine Griezmann,fr France,0.06,0.12,Saved,14,Head,,Adrien Rabiot,Pass (Live),Aurélien Tchouaméni,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+517,,,,,,,,,,,,,Netherlands-France-June-21-2024-European-Championship
+518,Ousmane Dembélé,fr France,0.03,,Blocked,24,Left Foot,,Ousmane Dembélé,Pass (Live),William Saliba,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+519,N'Golo Kanté,fr France,0.01,,Off Target,28,Right Foot,,Dayot Upamecano,Pass (Live),Jules Koundé,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+520,Memphis,nl Netherlands,0.05,,Blocked,29,Right Foot,Free kick,Xavi Simons,Fouled,Tijjani Reijnders,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+521,Adrien Rabiot,fr France,0.22,,Off Target,10,Right Foot,,Ousmane Dembélé,Pass (Live),N'Golo Kanté,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+522,Aurélien Tchouaméni,fr France,0.01,,Blocked,32,Right Foot,,N'Golo Kanté,Pass (Live),Aurélien Tchouaméni,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+523,Marcus Thuram,fr France,0.04,,Off Target,22,Right Foot,,Adrien Rabiot,Pass (Live),Ousmane Dembélé,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+524,Aurélien Tchouaméni,fr France,0.02,,Off Target,13,Head,,Ousmane Dembélé,Pass (Live),Jules Koundé,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+525,Antoine Griezmann,fr France,0.73,0.97,Saved,6,Left Foot,,N'Golo Kanté,Pass (Live),Aurélien Tchouaméni,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+526,Aurélien Tchouaméni,fr France,0.02,,Blocked,28,Right Foot,,Dayot Upamecano,Pass (Live),Theo Hernández,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+527,Ousmane Dembélé,fr France,0.04,,Off Target,17,Left Foot,,Antoine Griezmann,Pass (Live),,,Netherlands-France-June-21-2024-European-Championship
+528,Memphis,nl Netherlands,0.24,0.23,Saved,9,Left Foot,,Cody Gakpo,Pass (Live),Tijjani Reijnders,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+529,Virgil van Dijk,nl Netherlands,0.01,,Blocked,15,Head,,Joey Veerman,Pass (Dead),Georginio Wijnaldum,Fouled,Netherlands-France-June-21-2024-European-Championship
+530,N'Golo Kanté,fr France,0.03,,Blocked,16,Right Foot,,Jules Koundé,Pass (Live),Kingsley Coman,Pass (Live),Netherlands-France-June-21-2024-European-Championship
+531,Stefan Posch,at Austria,0.01,0.10,Saved,35,Right Foot,Deflected,Nicolas Seiwald,Pass (Live),Marcel Sabitzer,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+532,Gernot Trauner,at Austria,0.08,0.65,Goal,6,Head,,Phillipp Mwene,Pass (Live),Phillipp Mwene,Take-On,Poland-Austria-June-21-2024-European-Championship
+533,Marcel Sabitzer,at Austria,0.14,,Blocked,13,Right Foot,,Nicolas Seiwald,Pass (Live),,,Poland-Austria-June-21-2024-European-Championship
+534,Marcel Sabitzer,at Austria,0.07,0.14,Saved,16,Right Foot,,Nicolas Seiwald,Pass (Live),,,Poland-Austria-June-21-2024-European-Championship
+535,Piotr Zieliński,pl Poland,0.17,,Blocked,15,Right Foot,,Piotr Zieliński,Take-On,Adam Buksa,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+536,Nicola Zalewski,pl Poland,0.10,,Off Target,15,Right Foot,,Przemysław Frankowski,Pass (Live),Bartosz Slisz,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+537,Piotr Zieliński,pl Poland,0.02,,Blocked,25,Left Foot,,Przemysław Frankowski,Pass (Live),Krzysztof Piątek,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+538,Piotr Zieliński,pl Poland,0.10,,Blocked,22,Right Foot,,Bartosz Slisz,Pass (Live),Nicola Zalewski,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+539,Jan Bednarek,pl Poland,0.16,,Blocked,11,Right Foot,,Jakub Kiwior,Pass (Live),Przemysław Frankowski,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+540,Krzysztof Piątek,pl Poland,0.51,0.94,Goal,6,Right Foot,,Jan Bednarek,Shot,,,Poland-Austria-June-21-2024-European-Championship
+541,Marcel Sabitzer,at Austria,0.22,,Blocked,15,Right Foot,,Christoph Baumgartner,Pass (Live),Konrad Laimer,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+542,Marcel Sabitzer,at Austria,0.02,,Off Target,32,Right Foot,,Nicolas Seiwald,Pass (Live),Stefan Posch,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+543,Piotr Zieliński,pl Poland,0.04,0.27,Saved,31,Right Foot,Free kick,Bartosz Slisz,Fouled,Piotr Zieliński,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+544,Jakub Piotrowski,pl Poland,0.02,,Blocked,13,Head,,Piotr Zieliński,Pass (Dead),Piotr Zieliński,Shot,Poland-Austria-June-21-2024-European-Championship
+545,,,,,,,,,,,,,Poland-Austria-June-21-2024-European-Championship
+546,Stefan Posch,at Austria,0.03,,Blocked,31,Right Foot,,Konrad Laimer,Pass (Live),Marcel Sabitzer,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+547,Stefan Posch,at Austria,0.06,0.16,Saved,10,Head,,Patrick Wimmer,Pass (Dead),Stefan Posch,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+548,Krzysztof Piątek,pl Poland,0.03,,Off Target,28,Right Foot,,Przemysław Frankowski,Pass (Live),Jakub Moder,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+549,Marcel Sabitzer,at Austria,0.04,,Blocked,17,Left Foot,,Nicolas Seiwald,Pass (Live),,,Poland-Austria-June-21-2024-European-Championship
+550,Adam Buksa,pl Poland,0.01,,Blocked,17,Head,,Piotr Zieliński,Pass (Dead),Nicola Zalewski,Fouled,Poland-Austria-June-21-2024-European-Championship
+551,Piotr Zieliński,pl Poland,0.05,,Blocked,25,Right Foot,Free kick,Jakub Moder,Fouled,Nicola Zalewski,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+552,Paweł Dawidowicz,pl Poland,0.10,,Off Target,9,Head,,Piotr Zieliński,Pass (Dead),Jakub Moder,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+553,Christoph Baumgartner,at Austria,0.12,0.09,Goal,18,Right Foot,,Alexander Prass,Pass (Live),Nicolas Seiwald,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+554,Karol Świderski,pl Poland,0.07,0.06,Saved,22,Left Foot,,Robert Lewandowski,Pass (Live),Jakub Kiwior,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+555,Patrick Wimmer,at Austria,0.11,0.16,Saved,18,Right Foot,,Christoph Baumgartner,Pass (Live),Nicolas Seiwald,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+556,Nicolas Seiwald,at Austria,0.04,0.02,Saved,28,Right Foot,,Alexander Prass,Pass (Live),Marko Arnautović,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+557,Marko Arnautović (pen),at Austria,0.79,0.99,Goal,13,Right Foot,,Marcel Sabitzer,Fouled,Marcel Sabitzer,Take-On,Poland-Austria-June-21-2024-European-Championship
+558,Stefan Posch,at Austria,0.04,0.56,Saved,25,Left Foot,,,,,,Poland-Austria-June-21-2024-European-Championship
+559,Konrad Laimer,at Austria,0.38,,Off Target,10,Left Foot,,Konrad Laimer,Take-On,Romano Schmid,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+560,Piotr Zieliński,pl Poland,0.01,,Off Target,31,Left Foot,,Nicola Zalewski,Pass (Live),Przemysław Frankowski,Pass (Live),Poland-Austria-June-21-2024-European-Championship
+561,Kamil Grosicki,pl Poland,0.29,,Off Target,7,Left Foot,Volley,Przemysław Frankowski,Pass (Live),Przemysław Frankowski,Take-On,Poland-Austria-June-21-2024-European-Championship
+562,Adam Hložek,cz Czechia,0.16,0.07,Saved,11,Left Foot,,Vladimír Coufal,Pass (Dead),Lukáš Provod,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+563,Ladislav Krejčí,cz Czechia,0.15,,Blocked,11,Right Foot,Volley,Adam Hložek,Shot,,,Georgia-Czechia-June-22-2024-European-Championship
+564,Patrik Schick,cz Czechia,0.13,0.15,Saved,9,Left Foot,Volley,Ladislav Krejčí,Shot,,,Georgia-Czechia-June-22-2024-European-Championship
+565,Patrik Schick,cz Czechia,0.01,0.32,Saved,14,Head,,David Jurásek,Pass (Live),Václav Černý,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+566,Václav Černý,cz Czechia,0.04,,Blocked,21,Right Foot,,Václav Černý,Take-On,David Jurásek,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+567,Patrik Schick,cz Czechia,0.05,,Blocked,20,Left Foot,,Tomáš Holeš,Pass (Live),Robin Hranáč,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+568,Lukáš Provod,cz Czechia,0.03,0.09,Saved,29,Right Foot,Deflected,David Jurásek,Pass (Live),Ladislav Krejčí,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+569,Patrik Schick,cz Czechia,0.10,,Off Target,8,Head,,Václav Černý,Pass (Live),David Jurásek,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+570,Ladislav Krejčí,cz Czechia,0.03,,Off Target,13,Head,,Vladimír Coufal,Pass (Dead),,,Georgia-Czechia-June-22-2024-European-Championship
+571,Adam Hložek,cz Czechia,0.42,0.57,Saved,6,Right Foot,,Ladislav Krejčí,Shot,,,Georgia-Czechia-June-22-2024-European-Championship
+572,Václav Černý,cz Czechia,0.45,0.68,Saved,7,Left Foot,,Václav Černý,Pass (Live),Adam Hložek,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+573,Adam Hložek,cz Czechia,0.03,0.02,Saved,22,Right Foot,,,,,,Georgia-Czechia-June-22-2024-European-Championship
+574,Otar Kakabadze,ge Georgia,0.02,,Blocked,22,Left Foot,,Anzor Mekvabishvili,Pass (Live),Khvicha Kvaratskhelia,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+575,Georges Mikautadze (pen),ge Georgia,0.79,0.99,Goal,13,Right Foot,,,Fouled,Georges Mikautadze,Fouled,Georgia-Czechia-June-22-2024-European-Championship
+576,Patrik Schick,cz Czechia,0.16,0.26,Saved,15,Left Foot,,Tomáš Souček,Pass (Live),Václav Černý,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+577,,,,,,,,,,,,,Georgia-Czechia-June-22-2024-European-Championship
+578,Patrik Schick,cz Czechia,0.05,,Blocked,12,Head,,Tomáš Holeš,Pass (Live),Tomáš Souček,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+579,Ondřej Lingr,cz Czechia,0.03,,Blocked,9,Right Foot,,Matěj Jurásek,Pass (Live),Vladimír Coufal,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+580,David Jurásek,cz Czechia,0.02,,Off Target,22,Left Foot,,Ondřej Lingr,Shot,,,Georgia-Czechia-June-22-2024-European-Championship
+581,Anzor Mekvabishvili,ge Georgia,0.10,,Off Target,18,Right Foot,,Khvicha Kvaratskhelia,Pass (Live),,,Georgia-Czechia-June-22-2024-European-Championship
+582,Ondřej Lingr,cz Czechia,0.16,,Woodwork,5,Head,,Vladimír Coufal,Pass (Dead),Tomáš Holeš,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+583,Patrik Schick,cz Czechia,0.90,0.98,Goal,1,Other,,Ondřej Lingr,Shot,,,Georgia-Czechia-June-22-2024-European-Championship
+584,Ladislav Krejčí,cz Czechia,0.06,,Off Target,11,Head,,Vladimír Coufal,Pass (Dead),,,Georgia-Czechia-June-22-2024-European-Championship
+585,Matěj Jurásek,cz Czechia,0.02,0.30,Saved,27,Left Foot,,Tomáš Souček,Pass (Live),Tomáš Holeš,Tackle,Georgia-Czechia-June-22-2024-European-Championship
+586,Khvicha Kvaratskhelia,ge Georgia,0.02,,Off Target,30,Right Foot,,Giorgi Chakvetadze,Pass (Live),Giorgi Kochorashvili,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+587,Ladislav Krejčí,cz Czechia,0.02,,Blocked,34,Left Foot,,Tomáš Souček,Pass (Live),Vladimír Coufal,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+588,David Jurásek,cz Czechia,0.01,,Off Target,29,Right Foot,,Ladislav Krejčí,Shot,,,Georgia-Czechia-June-22-2024-European-Championship
+589,Mojmir Chytil,cz Czechia,0.16,,Off Target,7,Head,,David Jurásek,Pass (Live),Ladislav Krejčí,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+590,Ondřej Lingr,cz Czechia,0.04,0.30,Saved,21,Right Foot,,Robin Hranáč,Pass (Live),,,Georgia-Czechia-June-22-2024-European-Championship
+591,Matěj Jurásek,cz Czechia,0.02,,Off Target,29,Left Foot,,Vladimír Coufal,Pass (Live),Robin Hranáč,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+592,Matěj Jurásek,cz Czechia,0.02,0.44,Saved,22,Right Foot,,Ladislav Krejčí,Pass (Live),Antonín Barák,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+593,Tomáš Holeš,cz Czechia,0.03,,Blocked,32,Right Foot,,Ladislav Krejčí,Pass (Live),Petr Ševčík,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+594,Saba Lobzhanidze,ge Georgia,0.16,,Off Target,14,Right Foot,,Giorgi Chakvetadze,Pass (Live),Giorgi Kochorashvili,Pass (Live),Georgia-Czechia-June-22-2024-European-Championship
+595,Youri Tielemans,be Belgium,0.04,0.06,Goal,22,Right Foot,,Romelu Lukaku,Pass (Live),Jeremy Doku,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+596,Răzvan Marin,ro Romania,0.03,,Off Target,28,Right Foot,,Dennis Man,Pass (Live),Răzvan Marin,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+597,Radu Drăgușin,ro Romania,0.20,0.13,Saved,8,Head,,Marius Marin,Pass (Live),Nicușor Bancu,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+598,Youri Tielemans,be Belgium,0.04,,Blocked,25,Right Foot,,Jeremy Doku,Pass (Live),Youri Tielemans,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+599,Romelu Lukaku,be Belgium,0.14,,Blocked,10,Right Foot,,Jeremy Doku,Pass (Live),Kevin De Bruyne,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+600,Amadou Onana,be Belgium,0.03,,Off Target,27,Right Foot,Volley,Amadou Onana,Pass (Live),Wout Faes,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+601,Dodi Lukebakio,be Belgium,0.22,0.42,Saved,14,Left Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Take-On,Belgium-Romania-June-22-2024-European-Championship
+602,Jan Vertonghen,be Belgium,0.08,,Off Target,12,Left Foot,,Jeremy Doku,Pass (Live),Kevin De Bruyne,Pass (Dead),Belgium-Romania-June-22-2024-European-Championship
+603,Valentin Mihaila,ro Romania,0.02,,Off Target,26,Right Foot,,Nicolae Stanciu,Pass (Dead),Răzvan Marin,Fouled,Belgium-Romania-June-22-2024-European-Championship
+604,Valentin Mihaila,ro Romania,0.02,,Blocked,23,Right Foot,,Florin Niță,Pass (Live),,,Belgium-Romania-June-22-2024-European-Championship
+605,Jeremy Doku,be Belgium,0.02,0.10,Saved,12,Left Foot,,Dodi Lukebakio,Pass (Live),Kevin De Bruyne,Pass (Dead),Belgium-Romania-June-22-2024-European-Championship
+606,Dodi Lukebakio,be Belgium,0.02,,Blocked,12,Left Foot,Volley,Jeremy Doku,Shot,,,Belgium-Romania-June-22-2024-European-Championship
+607,Dodi Lukebakio,be Belgium,0.03,,Blocked,17,Left Foot,,Youri Tielemans,Pass (Live),Jeremy Doku,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+608,Dennis Man,ro Romania,0.02,0.27,Saved,18,Left Foot,,Răzvan Marin,Pass (Live),Marius Marin,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+609,Kevin De Bruyne,be Belgium,0.07,0.70,Saved,15,Right Foot,,Dodi Lukebakio,Pass (Live),Timothy Castagne,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+610,Andrei Burcă,ro Romania,0.08,,Off Target,9,Head,,Nicolae Stanciu,Pass (Live),Dennis Man,Pass (Dead),Belgium-Romania-June-22-2024-European-Championship
+611,,,,,,,,,,,,,Belgium-Romania-June-22-2024-European-Championship
+612,Dennis Man,ro Romania,0.02,0.02,Saved,28,Left Foot,,Andrei Ratiu,Pass (Live),Dennis Man,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+613,Valentin Mihaila,ro Romania,0.04,,Off Target,14,Left Foot,,,,,,Belgium-Romania-June-22-2024-European-Championship
+614,Kevin De Bruyne,be Belgium,0.02,,Off Target,25,Right Foot,,Arthur Theate,Pass (Live),Jeremy Doku,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+615,Kevin De Bruyne,be Belgium,0.08,0.10,Saved,21,Right Foot,,Romelu Lukaku,Pass (Live),Amadou Onana,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+616,Valentin Mihaila,ro Romania,0.02,,Off Target,25,Right Foot,,Nicolae Stanciu,Pass (Live),Valentin Mihaila,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+617,Romelu Lukaku,be Belgium,0.11,,Blocked,17,Right Foot,,Jeremy Doku,Pass (Live),Kevin De Bruyne,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+618,Romelu Lukaku,be Belgium,0.13,0.08,Saved,9,Right Foot,,Kevin De Bruyne,Pass (Dead),Youri Tielemans,Fouled,Belgium-Romania-June-22-2024-European-Championship
+619,Jeremy Doku,be Belgium,0.07,,Off Target,11,Left Foot,,Jeremy Doku,Take-On,Kevin De Bruyne,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+620,Romelu Lukaku,be Belgium,0.13,0.15,Saved,10,Right Foot,,Wout Faes,Pass (Live),Jan Vertonghen,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+621,Kevin De Bruyne,be Belgium,0.03,,Off Target,25,Right Foot,,Jeremy Doku,Pass (Live),Leandro Trossard,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+622,Dennis Man,ro Romania,0.09,0.38,Saved,15,Right Foot,,,,,,Belgium-Romania-June-22-2024-European-Championship
+623,Răzvan Marin,ro Romania,0.02,,Off Target,36,Right Foot,,Nicolae Stanciu,Pass (Live),Nicușor Bancu,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+624,Kevin De Bruyne,be Belgium,0.28,0.68,Goal,14,Right Foot,,,,,,Belgium-Romania-June-22-2024-European-Championship
+625,Denis Alibec,ro Romania,0.25,,Blocked,16,Left Foot,,Andrei Burcă,Pass (Live),Nicușor Bancu,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+626,Radu Drăgușin,ro Romania,0.01,,Off Target,12,Head,,Dennis Man,Pass (Dead),Răzvan Marin,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+627,Leandro Trossard,be Belgium,0.10,,Blocked,14,Right Foot,,Zeno Debast,Pass (Live),Leandro Trossard,Pass (Live),Belgium-Romania-June-22-2024-European-Championship
+628,Romelu Lukaku,be Belgium,0.15,0.45,Saved,11,Right Foot,,Orel Mangala,Interception,,,Belgium-Romania-June-22-2024-European-Championship
+629,Radu Drăgușin,ro Romania,0.01,,Blocked,32,Right Foot,,Darius Olaru,Pass (Live),Deian Sorescu,Pass (Dead),Belgium-Romania-June-22-2024-European-Championship
+630,Cristiano Ronaldo,pt Portugal,0.03,0.22,Saved,17,Right Foot,Volley,Bernardo Silva,Pass (Live),Bruno Fernandes,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+631,Bruno Fernandes,pt Portugal,0.03,,Blocked,31,Left Foot,,Vitinha,Pass (Live),,,Turkiye-Portugal-June-22-2024-European-Championship
+632,Kerem Aktürkoğlu,tr Türkiye,0.06,,Off Target,11,Right Foot,Volley,Yunus Akgün,Pass (Live),Kaan Ayhan,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+633,Kerem Aktürkoğlu,tr Türkiye,0.36,,Off Target,4,Right Foot,Volley,Zeki Çelik,Pass (Live),Kaan Ayhan,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+634,Cristiano Ronaldo,pt Portugal,0.09,,Off Target,9,Head,,João Cancelo,Pass (Live),Bernardo Silva,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+635,Rafael Leão,pt Portugal,0.05,,Off Target,11,Head,,Cristiano Ronaldo,Pass (Live),Cristiano Ronaldo,Take-On,Turkiye-Portugal-June-22-2024-European-Championship
+636,Bernardo Silva,pt Portugal,0.27,0.78,Goal,10,Left Foot,,Rafael Leão,Pass (Live),Nuno Mendes,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+637,Bruno Fernandes,pt Portugal,0.04,,Off Target,18,Right Foot,Volley,Rafael Leão,Pass (Live),,,Turkiye-Portugal-June-22-2024-European-Championship
+638,Kerem Aktürkoğlu,tr Türkiye,0.05,0.22,Saved,12,Right Foot,,Abdülkerim Bardakcı,Pass (Live),Kaan Ayhan,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+639,Orkun Kökçü,tr Türkiye,0.05,,Blocked,13,Right Foot,,Yunus Akgün,Pass (Dead),Kerem Aktürkoğlu,Shot,Turkiye-Portugal-June-22-2024-European-Championship
+640,Hakan Çalhanoğlu,tr Türkiye,0.01,,Blocked,27,Right Foot,Volley,Orkun Kökçü,Shot,,,Turkiye-Portugal-June-22-2024-European-Championship
+641,Bruno Fernandes,pt Portugal,0.07,,Off Target,16,Right Foot,,João Cancelo,Pass (Live),Bernardo Silva,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+642,Cristiano Ronaldo,pt Portugal,0.05,,Off Target,21,Right Foot,,Bernardo Silva,Pass (Live),João Palhinha,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+643,Orkun Kökçü,tr Türkiye,0.03,0.44,Saved,28,Right Foot,,Kerem Aktürkoğlu,Pass (Live),Hakan Çalhanoğlu,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+644,,,,,,,,,,,,,Turkiye-Portugal-June-22-2024-European-Championship
+645,Yusuf Yazıcı,tr Türkiye,0.02,0.02,Saved,31,Left Foot,,Yunus Akgün,Pass (Live),Zeki Çelik,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+646,Bruno Fernandes,pt Portugal,0.78,0.64,Goal,9,Right Foot,,Cristiano Ronaldo,Pass (Live),Rúben Neves,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+647,Yusuf Yazıcı,tr Türkiye,0.02,,Blocked,22,Left Foot,,Ferdi Kadioglu,Pass (Live),Hakan Çalhanoğlu,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+648,Kenan Yıldız,tr Türkiye,0.02,,Off Target,27,Right Foot,,İsmail Yüksek,Pass (Live),Kenan Yıldız,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+649,Cristiano Ronaldo,pt Portugal,0.20,,Off Target,8,Head,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+650,Arda Güler,tr Türkiye,0.01,,Blocked,31,Left Foot,,,,,,Turkiye-Portugal-June-22-2024-European-Championship
+651,Bernardo Silva,pt Portugal,0.18,,Blocked,14,Left Foot,,Cristiano Ronaldo,Pass (Live),João Neves,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+652,Arda Güler,tr Türkiye,0.01,,Off Target,54,Left Foot,,Hakan Çalhanoğlu,Pass (Live),İsmail Yüksek,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
+653,Rúben Neves,pt Portugal,0.04,,Off Target,28,Right Foot,,Bernardo Silva,Pass (Live),Cristiano Ronaldo,Pass (Live),Turkiye-Portugal-June-22-2024-European-Championship
